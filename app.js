@@ -120,7 +120,7 @@ function pickRandom() {
     }
     
     if (pool.length === 0) {
-        return { title: "No matches found", year: "", description: "Try different filters", imdb: null, type: "" };
+        return { title: "No matches found", year: "", description: "Try different filters", imdb: null, type: "", category: "", wildcard: false };
     }
     
     return pool[Math.floor(Math.random() * pool.length)];
@@ -137,10 +137,12 @@ function displayResult(movie) {
     document.getElementById('meta').textContent = movie.year ? `${movie.year} • ${movie.type.charAt(0).toUpperCase() + movie.type.slice(1)}` : '';
     document.getElementById('description').textContent = movie.description;
     
+    // Always show category tag, and wildcard badge if it's a wildcard
     const tags = document.getElementById('tags');
-    tags.innerHTML = `<span>${movie.category}</span>`;
     if (movie.wildcard) {
-        tags.innerHTML += '<span class="wildcard-tag">🎲 Wildcard</span>';
+        tags.innerHTML = `<span>${movie.category}</span><span class="wildcard-tag">🎲 Wildcard</span>`;
+    } else {
+        tags.innerHTML = `<span>${movie.category}</span>`;
     }
     
     // Add IMDb link button
