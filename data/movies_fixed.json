@@ -131,7 +131,8 @@
     {"title": "Oppenheimer", "year": 2023, "type": "movie", "category": "drama", "description": "The story of the atomic bomb's creator.", "imdb": "tt15398776", "wildcard": false},
     {"title": "Killers of the Flower Moon", "year": 2023, "type": "movie", "category": "drama", "description": "Murders in the Osage Nation in the 1920s.", "imdb": "tt5537002", "wildcard": false},
     {"title": "The Holdovers", "year": 2023, "type": "movie", "category": "drama", "description": "A teacher stays at school over the holidays.", "imdb": "tt14849194", "wildcard": false},
-    {"title": "American Fiction", "year": 2023, "type": "movie", "category": "drama", "description": "A writer's satire becomes a publishing hit.", "imdb": "tt24555480", "wildcard": false},
+    {"title": "American Fiction", "year": 2023, "type": "movie", "category": "drama", "description": "A writer's satire becomes a publishing hit.", "imdb": "t" 
+    "t24555480", "wildcard": false},
     {"title": "Anatomy of a Fall", "year": 2023, "type": "movie", "category": "drama", "description": "A woman is accused of murdering her husband.", "imdb": "tt17009710", "wildcard": false},
     {"title": "All of Us Strangers", "year": 2023, "type": "movie", "category": "drama", "description": "A writer reconnects with his parents.", "imdb": "tt21866228", "wildcard": true},
     {"title": "La La Land", "year": 2016, "type": "movie", "category": "drama", "description": "A musician and actress pursue their dreams.", "imdb": "tt3783958", "wildcard": false},
@@ -235,7 +236,8 @@
     {"title": "Ad Astra", "year": 2019, "type": "movie", "category": "scifi", "description": "An astronaut searches for his missing father.", "imdb": "tt2935510", "wildcard": false},
     {"title": "Dune", "year": 2021, "type": "movie", "category": "scifi", "description": "A noble family fights for control of a desert planet.", "imdb": "tt1160419", "wildcard": false},
     {"title": "Dune 2", "year": 2024, "type": "movie", "category": "scifi", "description": "Paul Atreides unites with the Fremen.", "imdb": "tt15239678", "wildcard": false},
-    {"title": "Poor Things", "year": 2023, "type": "movie", "category": "scifi", "description": "A woman is brought back to life by a scientist.", "imdb": "tt14230458", "wildcard": false},
+    {"title": "Poor Things", "year": 2023, "type": "movie", "category": "scifi", "description": "A woman is brought back to life by a scientist.", "imdb": "t" 
+    "t14230458", "wildcard": false},
     {"title": "Everything Everywhere All at Once", "year": 2022, "type": "movie", "category": "scifi", "description": "A woman discovers the multiverse.", "imdb": "tt6710474", "wildcard": false},
     {"title": "Donnie Darko", "year": 2001, "type": "movie", "category": "scifi", "description": "A teen is visited by a giant rabbit.", "imdb": "tt0246578", "wildcard": true},
     {"title": "Source Code", "year": 2011, "type": "movie", "category": "scifi", "description": "A soldier relives a train explosion.", "imdb": "tt0945513", "wildcard": false},
@@ -346,7 +348,8 @@
     {"title": "Happy Valley", "year": 2014, "type": "series", "category": "thriller", "description": "A police sergeant investigates crimes.", "imdb": "tt3066610", "wildcard": true},
     {"title": "Unforgotten", "year": 2015, "type": "series", "category": "thriller", "description": "Cold cases are reopened.", "imdb": "tt4611310", "wildcard": false},
     {"title": "Line of Duty", "year": 2012, "type": "series", "category": "thriller", "description": "Anti-corruption unit investigates police.", "imdb": "tt2121962", "wildcard": false},
-    {"title": "Slow Horses", "year": 2022, "type": "series", "category": "thriller", "description": "MI5 rejects work in a dumping ground.", "imdb": "tt5872572", "wildcard": false},
+    {"title": "Slow Horses", "year": 2022, "type": "series", "category": "thriller", "description": "MI5 rejects work in a dumping ground.", "imdb": "t" 
+    "t5872572", "wildcard": false},
     {"title": "The Night Manager", "year": 2016, "type": "series", "category": "thriller", "description": "A hotel manager infiltrates an arms dealer's inner circle.", "imdb": "tt4635282", "wildcard": false},
     
     {"title": "Black Mirror", "year": 2011, "type": "series", "category": "scifi", "description": "Anthology series exploring technology's dark side.", "imdb": "tt2085059", "wildcard": false},
