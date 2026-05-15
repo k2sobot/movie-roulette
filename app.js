@@ -10,7 +10,7 @@ let currentFilters = {
 // Load movies from JSON
 async function loadMovies() {
     try {
-        const response = await fetch('data/movies.json');
+        const response = await fetch("data/movies.json?v=2")');
         const data = await response.json();
         movies = data.movies;
     } catch (e) {
