@@ -7,10 +7,10 @@ let currentFilters = {
     yearMin: null
 };
 
-// Load movies from JSON
+// Load movies from JSON via jsDelivr CDN (bypasses GitHub Pages cache)
 async function loadMovies() {
     try {
-        const response = await fetch('data/movies.json?v=' + Date.now());
+        const response = await fetch('https://cdn.jsdelivr.net/gh/k2sobot/movie-roulette@main/data/movies.json');
         const data = await response.json();
         movies = data.movies;
     } catch (e) {
