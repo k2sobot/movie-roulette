@@ -143,6 +143,16 @@ function displayResult(movie) {
         tags.innerHTML += '<span class="wildcard-tag">🎲 Wildcard</span>';
     }
     
+    // Add IMDb link button
+    const linkEl = document.getElementById('imdb-link');
+    if (movie.imdb) {
+        linkEl.innerHTML = `<a href="https://www.imdb.com/title/${movie.imdb}/" target="_blank" rel="noopener" class="imdb-btn">View on IMDb →</a>`;
+        linkEl.style.display = 'block';
+    } else {
+        linkEl.innerHTML = '';
+        linkEl.style.display = 'none';
+    }
+    
     result.classList.add('show');
     
     // Fetch poster
