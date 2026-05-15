@@ -10,7 +10,7 @@ let currentFilters = {
 // Load movies from JSON
 async function loadMovies() {
     try {
-        const response = await fetch("data/movies.json?v=2")');
+        const response = await fetch('data/movies.json?v=' + Date.now());
         const data = await response.json();
         movies = data.movies;
     } catch (e) {
@@ -82,7 +82,6 @@ function pickRandom() {
 function displayResult(movie) {
     const result = document.getElementById('result');
     
-    // Show loading state
     const posterEl = document.getElementById('poster');
     posterEl.innerHTML = '<div class="poster-loading">🎬</div>';
     
@@ -90,7 +89,6 @@ function displayResult(movie) {
     document.getElementById('meta').textContent = movie.year ? `${movie.year} • ${movie.type.charAt(0).toUpperCase() + movie.type.slice(1)}` : '';
     document.getElementById('description').textContent = movie.description;
     
-    // Show category and wildcard badge
     const tags = document.getElementById('tags');
     if (movie.wildcard) {
         tags.innerHTML = `<span>${movie.category}</span><span class="wildcard-tag">🎲 Wildcard</span>`;
@@ -98,7 +96,6 @@ function displayResult(movie) {
         tags.innerHTML = `<span>${movie.category}</span>`;
     }
     
-    // Add IMDb link button
     const linkEl = document.getElementById('imdb-link');
     if (movie.imdb) {
         linkEl.innerHTML = `<a href="https://www.imdb.com/title/${movie.imdb}/" target="_blank" rel="noopener" class="imdb-btn">View on IMDb →</a>`;
@@ -110,7 +107,6 @@ function displayResult(movie) {
     
     result.classList.add('show');
     
-    // Fetch poster
     if (movie.imdb) {
         const posterUrl = `https://img.omdbapi.com/?i=${movie.imdb}&apikey=${OMDB_API_KEY}&h=600`;
         const img = new Image();
