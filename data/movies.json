@@ -843,7 +843,7 @@
       "type": "movie",
       "category": "action",
       "description": "An assassin accidentally blinds a singer.",
-      "imdb": "tt0097202",
+      "imdb": "tt16405700",
       "wildcard": true
     },
     {
@@ -1464,7 +1464,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Guests face a chef.",
-      "imdb": "tt5766152",
+      "imdb": "tt9764362",
       "wildcard": false
     },
     {
@@ -1864,15 +1864,6 @@
       "wildcard": false
     },
     {
-      "title": "Zodiac",
-      "year": 2007,
-      "type": "movie",
-      "category": "thriller",
-      "description": "A cartoonist tracks a killer.",
-      "imdb": "tt0443706",
-      "wildcard": false
-    },
-    {
       "title": "The Girl on the Train",
       "year": 2016,
       "type": "movie",
@@ -1915,33 +1906,6 @@
       "category": "thriller",
       "description": "Survivors in Barcelona.",
       "imdb": "tt12262212",
-      "wildcard": true
-    },
-    {
-      "title": "The Invisible Man",
-      "year": 2020,
-      "type": "movie",
-      "category": "thriller",
-      "description": "A woman is stalked.",
-      "imdb": "tt1051906",
-      "wildcard": false
-    },
-    {
-      "title": "Run",
-      "year": 2020,
-      "type": "movie",
-      "category": "thriller",
-      "description": "A teen discovers secrets.",
-      "imdb": "tt8053184",
-      "wildcard": true
-    },
-    {
-      "title": "Fresh",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Dating turns dark.",
-      "imdb": "tt13403046",
       "wildcard": true
     },
     {
@@ -2104,15 +2068,6 @@
       "category": "drama",
       "description": "A hunter finds drug money.",
       "imdb": "tt0477348",
-      "wildcard": false
-    },
-    {
-      "title": "Parasite",
-      "year": 2019,
-      "type": "movie",
-      "category": "drama",
-      "description": "A poor family schemes.",
-      "imdb": "tt6751668",
       "wildcard": false
     },
     {
@@ -2323,15 +2278,6 @@
       "wildcard": false
     },
     {
-      "title": "Joker",
-      "year": 2019,
-      "type": "movie",
-      "category": "drama",
-      "description": "Arthur Fleck descends.",
-      "imdb": "tt7286456",
-      "wildcard": false
-    },
-    {
       "title": "Little Women",
       "year": 2019,
       "type": "movie",
@@ -2347,15 +2293,6 @@
       "category": "drama",
       "description": "Car designers challenge Ferrari.",
       "imdb": "tt1950186",
-      "wildcard": false
-    },
-    {
-      "title": "1917",
-      "year": 2019,
-      "type": "movie",
-      "category": "drama",
-      "description": "Soldiers cross lines.",
-      "imdb": "tt8579674",
       "wildcard": false
     },
     {
@@ -2890,24 +2827,6 @@
       "wildcard": false
     },
     {
-      "title": "Deadpool",
-      "year": 2016,
-      "type": "movie",
-      "category": "comedy",
-      "description": "A mercenary gains powers.",
-      "imdb": "tt1431045",
-      "wildcard": false
-    },
-    {
-      "title": "Deadpool 2",
-      "year": 2018,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Deadpool forms a team.",
-      "imdb": "tt4465564",
-      "wildcard": false
-    },
-    {
       "title": "Ted",
       "year": 2012,
       "type": "movie",
@@ -2950,24 +2869,6 @@
       "category": "comedy",
       "description": "Girls cut loose before graduation.",
       "imdb": "tt14841946",
-      "wildcard": false
-    },
-    {
-      "title": "Knives Out",
-      "year": 2019,
-      "type": "movie",
-      "category": "comedy",
-      "description": "A detective investigates.",
-      "imdb": "tt8946378",
-      "wildcard": false
-    },
-    {
-      "title": "Glass Onion",
-      "year": 2022,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Benoit Blanc returns.",
-      "imdb": "tt11564570",
       "wildcard": false
     },
     {
@@ -3079,24 +2980,6 @@
       "wildcard": false
     },
     {
-      "title": "Get Out",
-      "year": 2017,
-      "type": "movie",
-      "category": "horror",
-      "description": "A black man visits his girlfriend's parents.",
-      "imdb": "tt5024348",
-      "wildcard": false
-    },
-    {
-      "title": "Us",
-      "year": 2019,
-      "type": "movie",
-      "category": "horror",
-      "description": "A family is attacked by doppelg\u00e4ngers.",
-      "imdb": "tt6857112",
-      "wildcard": false
-    },
-    {
       "title": "Nope",
       "year": 2022,
       "type": "movie",
@@ -3166,24 +3049,6 @@
       "category": "horror",
       "description": "Researchers face a shape-shifter.",
       "imdb": "tt0084787",
-      "wildcard": false
-    },
-    {
-      "title": "A Quiet Place",
-      "year": 2018,
-      "type": "movie",
-      "category": "horror",
-      "description": "A family must stay silent.",
-      "imdb": "tt6644200",
-      "wildcard": false
-    },
-    {
-      "title": "A Quiet Place Part II",
-      "year": 2020,
-      "type": "movie",
-      "category": "horror",
-      "description": "Survivors navigate silence.",
-      "imdb": "tt8332922",
       "wildcard": false
     },
     {
@@ -3592,15 +3457,6 @@
       "wildcard": false
     },
     {
-      "title": "Barbarian",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "A woman finds her rental occupied.",
-      "imdb": "tt11245972",
-      "wildcard": false
-    },
-    {
       "title": "X",
       "year": 2022,
       "type": "movie",
@@ -3625,15 +3481,6 @@
       "category": "horror",
       "description": "Maxine pursues fame.",
       "imdb": "tt23251922",
-      "wildcard": false
-    },
-    {
-      "title": "The Menu",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Guests face a chef.",
-      "imdb": "tt5766152",
       "wildcard": false
     },
     {
@@ -3679,15 +3526,6 @@
       "category": "horror",
       "description": "An agent hunts a killer.",
       "imdb": "tt24670528",
-      "wildcard": false
-    },
-    {
-      "title": "The Substance",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "A celebrity uses a drug.",
-      "imdb": "tt17526714",
       "wildcard": false
     },
     {
@@ -3835,30 +3673,12 @@
       "wildcard": false
     },
     {
-      "title": "Nope",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Siblings discover something in the sky.",
-      "imdb": "tt10919420",
-      "wildcard": false
-    },
-    {
       "title": "The Black Phone",
       "year": 2022,
       "type": "movie",
       "category": "horror",
       "description": "A boy is trapped by a killer.",
       "imdb": "tt7144666",
-      "wildcard": false
-    },
-    {
-      "title": "Smile",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "A curse spreads.",
-      "imdb": "tt11563970",
       "wildcard": false
     },
     {
@@ -3961,30 +3781,12 @@
       "wildcard": false
     },
     {
-      "title": "Saw X",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Jigsaw returns.",
-      "imdb": "tt8541860",
-      "wildcard": false
-    },
-    {
       "title": "Evil Dead Rise",
       "year": 2023,
       "type": "movie",
       "category": "horror",
       "description": "Deadites return.",
       "imdb": "tt13360360",
-      "wildcard": false
-    },
-    {
-      "title": "Insidious: The Red Door",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "The family returns.",
-      "imdb": "tt13405716",
       "wildcard": false
     },
     {
@@ -4039,15 +3841,6 @@
       "category": "scifi",
       "description": "An agent manipulates time.",
       "imdb": "tt6723592",
-      "wildcard": false
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "type": "movie",
-      "category": "scifi",
-      "description": "A hacker discovers the truth.",
-      "imdb": "tt0133093",
       "wildcard": false
     },
     {
@@ -4168,30 +3961,12 @@
       "wildcard": false
     },
     {
-      "title": "Dune",
-      "year": 2021,
-      "type": "movie",
-      "category": "scifi",
-      "description": "A noble family fights for a planet.",
-      "imdb": "tt1160419",
-      "wildcard": false
-    },
-    {
       "title": "Dune 2",
       "year": 2024,
       "type": "movie",
       "category": "scifi",
       "description": "Paul Atreides unites.",
       "imdb": "tt15239678",
-      "wildcard": false
-    },
-    {
-      "title": "Edge of Tomorrow",
-      "year": 2014,
-      "type": "movie",
-      "category": "scifi",
-      "description": "A soldier relives the same day.",
-      "imdb": "tt1631867",
       "wildcard": false
     },
     {
@@ -4219,24 +3994,6 @@
       "category": "scifi",
       "description": "A robot gains consciousness.",
       "imdb": "tt1823672",
-      "wildcard": false
-    },
-    {
-      "title": "Looper",
-      "year": 2012,
-      "type": "movie",
-      "category": "scifi",
-      "description": "A hitman must kill his future self.",
-      "imdb": "tt1276104",
-      "wildcard": false
-    },
-    {
-      "title": "Source Code",
-      "year": 2011,
-      "type": "movie",
-      "category": "scifi",
-      "description": "A soldier relives a bombing.",
-      "imdb": "tt0945513",
       "wildcard": false
     },
     {
@@ -4273,15 +4030,6 @@
       "category": "scifi",
       "description": "A scientist uploads his mind.",
       "imdb": "tt2209764",
-      "wildcard": false
-    },
-    {
-      "title": "Upgrade",
-      "year": 2018,
-      "type": "movie",
-      "category": "scifi",
-      "description": "A paralyzed man gets an implant.",
-      "imdb": "tt6499752",
       "wildcard": false
     },
     {
@@ -4384,66 +4132,12 @@
       "wildcard": false
     },
     {
-      "title": "Dune",
-      "year": 2021,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Paul's journey.",
-      "imdb": "tt1160419",
-      "wildcard": false
-    },
-    {
-      "title": "Don't Look Up",
-      "year": 2021,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Scientists warn of a comet.",
-      "imdb": "tt11286314",
-      "wildcard": false
-    },
-    {
-      "title": "Everything Everywhere All at Once",
-      "year": 2022,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Multiverse journey.",
-      "imdb": "tt6710474",
-      "wildcard": false
-    },
-    {
-      "title": "Nope",
-      "year": 2022,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Something in the sky.",
-      "imdb": "tt10919420",
-      "wildcard": false
-    },
-    {
       "title": "The Creator",
       "year": 2023,
       "type": "movie",
       "category": "scifi",
       "description": "War with AI.",
       "imdb": "tt11858890",
-      "wildcard": false
-    },
-    {
-      "title": "Dune 2",
-      "year": 2024,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Paul's rise.",
-      "imdb": "tt15239678",
-      "wildcard": false
-    },
-    {
-      "title": "Poor Things",
-      "year": 2023,
-      "type": "movie",
-      "category": "scifi",
-      "description": "A woman reanimated.",
-      "imdb": "tt14230458",
       "wildcard": false
     },
     {
@@ -5293,42 +4987,6 @@
       "wildcard": false
     },
     {
-      "title": "Knock at the Cabin",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "A family is held hostage.",
-      "imdb": "tt16226746",
-      "wildcard": false
-    },
-    {
-      "title": "M3GAN",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "An AI doll turns deadly.",
-      "imdb": "tt11675022",
-      "wildcard": false
-    },
-    {
-      "title": "Missing",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "A teen searches for her mother.",
-      "imdb": "tt13214470",
-      "wildcard": false
-    },
-    {
-      "title": "Scream VI",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Ghostface in New York.",
-      "imdb": "tt17663992",
-      "wildcard": false
-    },
-    {
       "title": "The Killer",
       "year": 2023,
       "type": "movie",
@@ -5362,15 +5020,6 @@
       "category": "thriller",
       "description": "A detective investigates murder.",
       "imdb": "tt10738522",
-      "wildcard": false
-    },
-    {
-      "title": "The Equalizer 3",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "McCall protects a town.",
-      "imdb": "tt11360226",
       "wildcard": false
     },
     {
@@ -5437,15 +5086,6 @@
       "wildcard": false
     },
     {
-      "title": "Shogun",
-      "year": 2024,
-      "type": "series",
-      "category": "thriller",
-      "description": "Samurai politics.",
-      "imdb": "tt2752223",
-      "wildcard": false
-    },
-    {
       "title": "Sunny",
       "year": 2024,
       "type": "series",
@@ -5470,33 +5110,6 @@
       "category": "thriller",
       "description": "A wedding turns deadly.",
       "imdb": "tt23575416",
-      "wildcard": false
-    },
-    {
-      "title": "Nobody",
-      "year": 2021,
-      "type": "movie",
-      "category": "action",
-      "description": "A man's past catches up.",
-      "imdb": "tt7888964",
-      "wildcard": false
-    },
-    {
-      "title": "The Northman",
-      "year": 2022,
-      "type": "movie",
-      "category": "action",
-      "description": "A Viking seeks vengeance.",
-      "imdb": "tt11138512",
-      "wildcard": false
-    },
-    {
-      "title": "Top Gun: Maverick",
-      "year": 2022,
-      "type": "movie",
-      "category": "action",
-      "description": "Maverick trains pilots.",
-      "imdb": "tt1745960",
       "wildcard": false
     },
     {
@@ -5563,15 +5176,6 @@
       "wildcard": false
     },
     {
-      "title": "Killers of the Flower Moon",
-      "year": 2023,
-      "type": "movie",
-      "category": "action",
-      "description": "Osage murders.",
-      "imdb": "tt5537002",
-      "wildcard": false
-    },
-    {
       "title": "Napoleon",
       "year": 2023,
       "type": "movie",
@@ -5605,15 +5209,6 @@
       "category": "action",
       "description": "Ducks migrate.",
       "imdb": "tt5968306",
-      "wildcard": false
-    },
-    {
-      "title": "Civil War",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Journalists in civil war.",
-      "imdb": "tt23971364",
       "wildcard": false
     },
     {
@@ -5653,120 +5248,12 @@
       "wildcard": false
     },
     {
-      "title": "Inside Out 2",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Riley's emotions.",
-      "imdb": "tt22022452",
-      "wildcard": false
-    },
-    {
-      "title": "A Quiet Place: Day One",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "First day of invasion.",
-      "imdb": "tt11823346",
-      "wildcard": false
-    },
-    {
-      "title": "Twisters",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Storm chasers return.",
-      "imdb": "tt12584990",
-      "wildcard": false
-    },
-    {
-      "title": "Deadpool & Wolverine",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Heroes team up.",
-      "imdb": "tt2631180",
-      "wildcard": false
-    },
-    {
-      "title": "Alien: Romulus",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Colonists face aliens.",
-      "imdb": "tt18412232",
-      "wildcard": false
-    },
-    {
       "title": "Kraven the Hunter",
       "year": 2024,
       "type": "movie",
       "category": "action",
       "description": "Kraven's origin.",
       "imdb": "tt15789038",
-      "wildcard": false
-    },
-    {
-      "title": "Gladiator 2",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Lucius in arena.",
-      "imdb": "tt9218128",
-      "wildcard": false
-    },
-    {
-      "title": "Red Notice",
-      "year": 2021,
-      "type": "movie",
-      "category": "action",
-      "description": "Agent hunts thieves.",
-      "imdb": "tt7995924",
-      "wildcard": false
-    },
-    {
-      "title": "The Gray Man",
-      "year": 2022,
-      "type": "movie",
-      "category": "action",
-      "description": "Agent is hunted.",
-      "imdb": "tt1649418",
-      "wildcard": false
-    },
-    {
-      "title": "Extraction",
-      "year": 2020,
-      "type": "movie",
-      "category": "action",
-      "description": "Mercenary rescues victim.",
-      "imdb": "tt8155288",
-      "wildcard": false
-    },
-    {
-      "title": "Extraction 2",
-      "year": 2023,
-      "type": "movie",
-      "category": "action",
-      "description": "Tyler Rake returns.",
-      "imdb": "tt12263384",
-      "wildcard": false
-    },
-    {
-      "title": "The Old Guard",
-      "year": 2020,
-      "type": "movie",
-      "category": "action",
-      "description": "Immortal mercenaries.",
-      "imdb": "tt7545524",
-      "wildcard": false
-    },
-    {
-      "title": "6 Underground",
-      "year": 2019,
-      "type": "movie",
-      "category": "action",
-      "description": "Fakes fight dictator.",
-      "imdb": "tt8106534",
       "wildcard": false
     },
     {
@@ -5896,33 +5383,6 @@
       "wildcard": false
     },
     {
-      "title": "The Equalizer 3",
-      "year": 2023,
-      "type": "movie",
-      "category": "action",
-      "description": "McCall protects town.",
-      "imdb": "tt11360226",
-      "wildcard": false
-    },
-    {
-      "title": "The Killer",
-      "year": 2023,
-      "type": "movie",
-      "category": "action",
-      "description": "Assassin faces consequences.",
-      "imdb": "tt16405700",
-      "wildcard": false
-    },
-    {
-      "title": "Leave the World Behind",
-      "year": 2023,
-      "type": "movie",
-      "category": "action",
-      "description": "Families face crisis.",
-      "imdb": "tt12731214",
-      "wildcard": false
-    },
-    {
       "title": "Rebel Moon Part 1",
       "year": 2023,
       "type": "movie",
@@ -5941,39 +5401,12 @@
       "wildcard": false
     },
     {
-      "title": "Monkey Man",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Man fights corruption.",
-      "imdb": "tt11811488",
-      "wildcard": false
-    },
-    {
-      "title": "Civil War",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Journalists cover war.",
-      "imdb": "tt23971364",
-      "wildcard": false
-    },
-    {
       "title": "The Fall Guy",
       "year": 2024,
       "type": "movie",
       "category": "action",
       "description": "Stuntman solves mystery.",
       "imdb": "tt1673200",
-      "wildcard": false
-    },
-    {
-      "title": "Atlas",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "AI and humanity.",
-      "imdb": "tt14857918",
       "wildcard": false
     },
     {
@@ -6031,30 +5464,12 @@
       "wildcard": false
     },
     {
-      "title": "Boss Level",
-      "year": 2021,
-      "type": "movie",
-      "category": "action",
-      "description": "Man relives death.",
-      "imdb": "tt1462770",
-      "wildcard": false
-    },
-    {
       "title": "Infinite",
       "year": 2021,
       "type": "movie",
       "category": "action",
       "description": "Man discovers past lives.",
       "imdb": "tt1263274",
-      "wildcard": false
-    },
-    {
-      "title": "Reminiscence",
-      "year": 2021,
-      "type": "movie",
-      "category": "action",
-      "description": "Man searches memories.",
-      "imdb": "tt3272066",
       "wildcard": false
     },
     {
@@ -6118,15 +5533,6 @@
       "category": "action",
       "description": "Aliens protect Earth.",
       "imdb": "tt9032400",
-      "wildcard": false
-    },
-    {
-      "title": "Spider-Man: No Way Home",
-      "year": 2021,
-      "type": "movie",
-      "category": "action",
-      "description": "Multiverse villains.",
-      "imdb": "tt10872600",
       "wildcard": false
     },
     {
@@ -6202,120 +5608,12 @@
       "wildcard": false
     },
     {
-      "title": "Imaginary",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Teddy bear terror.",
-      "imdb": "tt21806390",
-      "wildcard": false
-    },
-    {
-      "title": "Night Swim",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Haunted pool.",
-      "imdb": "tt11230612",
-      "wildcard": false
-    },
-    {
-      "title": "Abigail",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Kidnappers face vampire.",
-      "imdb": "tt26810804",
-      "wildcard": false
-    },
-    {
-      "title": "Civil War",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "US conflict.",
-      "imdb": "tt23971364",
-      "wildcard": false
-    },
-    {
-      "title": "Godzilla x Kong",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Titans unite.",
-      "imdb": "tt14539740",
-      "wildcard": false
-    },
-    {
-      "title": "Kingdom of the Planet of the Apes",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Apes rule.",
-      "imdb": "tt11337956",
-      "wildcard": false
-    },
-    {
-      "title": "Furiosa",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Furiosa's story.",
-      "imdb": "tt12037194",
-      "wildcard": false
-    },
-    {
       "title": "Bad Boys 4",
       "year": 2024,
       "type": "movie",
       "category": "action",
       "description": "Cops return.",
       "imdb": "tt27995578",
-      "wildcard": false
-    },
-    {
-      "title": "A Quiet Place: Day One",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "First invasion.",
-      "imdb": "tt11823346",
-      "wildcard": false
-    },
-    {
-      "title": "Twisters",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Storm chasers.",
-      "imdb": "tt12584990",
-      "wildcard": false
-    },
-    {
-      "title": "Deadpool & Wolverine",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Heroes team up.",
-      "imdb": "tt2631180",
-      "wildcard": false
-    },
-    {
-      "title": "Alien: Romulus",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "New alien film.",
-      "imdb": "tt18412232",
-      "wildcard": false
-    },
-    {
-      "title": "Gladiator 2",
-      "year": 2024,
-      "type": "movie",
-      "category": "action",
-      "description": "Sequel.",
-      "imdb": "tt9218128",
       "wildcard": false
     },
     {
@@ -6409,24 +5707,6 @@
       "wildcard": false
     },
     {
-      "title": "Red Notice",
-      "year": 2021,
-      "type": "movie",
-      "category": "action",
-      "description": "Agent hunts thieves.",
-      "imdb": "tt7995924",
-      "wildcard": false
-    },
-    {
-      "title": "Ghostbusters: Afterlife",
-      "year": 2021,
-      "type": "movie",
-      "category": "action",
-      "description": "New generation.",
-      "imdb": "tt4513678",
-      "wildcard": false
-    },
-    {
       "title": "Ghostbusters: Frozen Empire",
       "year": 2024,
       "type": "movie",
@@ -6463,15 +5743,6 @@
       "wildcard": false
     },
     {
-      "title": "Fast X",
-      "year": 2023,
-      "type": "movie",
-      "category": "action",
-      "description": "Dom fights Dante.",
-      "imdb": "tt5433030",
-      "wildcard": false
-    },
-    {
       "title": "Fast 11",
       "year": 2025,
       "type": "movie",
@@ -6481,39 +5752,12 @@
       "wildcard": false
     },
     {
-      "title": "John Wick 4",
-      "year": 2023,
-      "type": "movie",
-      "category": "action",
-      "description": "Wick fights.",
-      "imdb": "tt10366206",
-      "wildcard": false
-    },
-    {
       "title": "Ballerina",
       "year": 2025,
       "type": "movie",
       "category": "action",
       "description": "Assassin spinoff.",
       "imdb": "tt8494256",
-      "wildcard": false
-    },
-    {
-      "title": "Run",
-      "year": 2020,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Teen discovers mother's secrets.",
-      "imdb": "tt8053184",
-      "wildcard": false
-    },
-    {
-      "title": "The Invisible Man",
-      "year": 2020,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Woman stalked by ex.",
-      "imdb": "tt1051906",
       "wildcard": false
     },
     {
@@ -6541,123 +5785,6 @@
       "category": "thriller",
       "description": "Woman witnesses crime.",
       "imdb": "tt8978280",
-      "wildcard": false
-    },
-    {
-      "title": "Fresh",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Dating turns dark.",
-      "imdb": "tt13403046",
-      "wildcard": false
-    },
-    {
-      "title": "Barbarian",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Rental occupied.",
-      "imdb": "tt11245972",
-      "wildcard": false
-    },
-    {
-      "title": "The Menu",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Chef terrorizes guests.",
-      "imdb": "tt5766152",
-      "wildcard": false
-    },
-    {
-      "title": "Glass Onion",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Benoit Blanc returns.",
-      "imdb": "tt11564570",
-      "wildcard": false
-    },
-    {
-      "title": "Missing",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Teen searches for mom.",
-      "imdb": "tt13214470",
-      "wildcard": false
-    },
-    {
-      "title": "Scream VI",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Ghostface in NYC.",
-      "imdb": "tt17663992",
-      "wildcard": false
-    },
-    {
-      "title": "Knock at the Cabin",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Family held hostage.",
-      "imdb": "tt16226746",
-      "wildcard": false
-    },
-    {
-      "title": "M3GAN",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "AI doll terror.",
-      "imdb": "tt11675022",
-      "wildcard": false
-    },
-    {
-      "title": "The Killer",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Assassin's crisis.",
-      "imdb": "tt16405700",
-      "wildcard": false
-    },
-    {
-      "title": "Leave the World Behind",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Families face collapse.",
-      "imdb": "tt12731214",
-      "wildcard": false
-    },
-    {
-      "title": "Fair Play",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Couple at hedge fund.",
-      "imdb": "tt16227090",
-      "wildcard": false
-    },
-    {
-      "title": "Reptile",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Detective investigates.",
-      "imdb": "tt10738522",
-      "wildcard": false
-    },
-    {
-      "title": "The Equalizer 3",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "McCall protects.",
-      "imdb": "tt11360226",
       "wildcard": false
     },
     {
@@ -6949,42 +6076,6 @@
       "wildcard": false
     },
     {
-      "title": "No Exit",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Rest stop terror.",
-      "imdb": "tt10887452",
-      "wildcard": false
-    },
-    {
-      "title": "Fall",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Tower climb.",
-      "imdb": "tt15353734",
-      "wildcard": false
-    },
-    {
-      "title": "Becky",
-      "year": 2020,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Girl vs convicts.",
-      "imdb": "tt10233704",
-      "wildcard": false
-    },
-    {
-      "title": "The Wrath of Becky",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Becky returns.",
-      "imdb": "tt22458692",
-      "wildcard": false
-    },
-    {
       "title": "Hunt",
       "year": 2022,
       "type": "movie",
@@ -7090,15 +6181,6 @@
       "category": "thriller",
       "description": "Forest mystery.",
       "imdb": "tt12735026",
-      "wildcard": false
-    },
-    {
-      "title": "Longlegs",
-      "year": 2024,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Agent hunts killer.",
-      "imdb": "tt24670528",
       "wildcard": false
     },
     {
@@ -7318,57 +6400,12 @@
       "wildcard": false
     },
     {
-      "title": "Hard Boiled",
-      "year": 1992,
-      "type": "movie",
-      "category": "action",
-      "description": "Hong Kong action.",
-      "imdb": "tt0104684",
-      "wildcard": false
-    },
-    {
-      "title": "The Killer",
-      "year": 1989,
-      "type": "movie",
-      "category": "action",
-      "description": "Assassin's story.",
-      "imdb": "tt0097202",
-      "wildcard": false
-    },
-    {
-      "title": "Police Story",
-      "year": 1985,
-      "type": "movie",
-      "category": "action",
-      "description": "Jackie Chan classic.",
-      "imdb": "tt0089374",
-      "wildcard": false
-    },
-    {
       "title": "Drunken Master",
       "year": 1978,
       "type": "movie",
       "category": "action",
       "description": "Kung fu comedy.",
       "imdb": "tt0082493",
-      "wildcard": false
-    },
-    {
-      "title": "Wheels on Meals",
-      "year": 1984,
-      "type": "movie",
-      "category": "action",
-      "description": "Action comedy.",
-      "imdb": "tt0087189",
-      "wildcard": false
-    },
-    {
-      "title": "Project A",
-      "year": 1983,
-      "type": "movie",
-      "category": "action",
-      "description": "Coast guard action.",
-      "imdb": "tt0086574",
       "wildcard": false
     },
     {
@@ -7477,15 +6514,6 @@
       "category": "action",
       "description": "Arm wrestling.",
       "imdb": "tt0093692",
-      "wildcard": false
-    },
-    {
-      "title": "Cliffhanger",
-      "year": 1993,
-      "type": "movie",
-      "category": "action",
-      "description": "Mountain rescue.",
-      "imdb": "tt0106582",
       "wildcard": false
     },
     {
@@ -7665,7 +6693,7 @@
       "type": "movie",
       "category": "action",
       "description": "Sci-fi epic.",
-      "imdb": "tt0087182",
+      "imdb": "tt1160419",
       "wildcard": false
     },
     {
@@ -7714,15 +6742,6 @@
       "wildcard": false
     },
     {
-      "title": "Gladiator",
-      "year": 2000,
-      "type": "movie",
-      "category": "action",
-      "description": "Roman epic.",
-      "imdb": "tt0172495",
-      "wildcard": false
-    },
-    {
       "title": "Crouching Tiger, Hidden Dragon",
       "year": 2000,
       "type": "movie",
@@ -7756,15 +6775,6 @@
       "category": "action",
       "description": "Palace intrigue.",
       "imdb": "tt0475804",
-      "wildcard": false
-    },
-    {
-      "title": "The Bourne Identity",
-      "year": 2002,
-      "type": "movie",
-      "category": "action",
-      "description": "Amnesiac assassin.",
-      "imdb": "tt0258463",
       "wildcard": false
     },
     {
@@ -7804,15 +6814,6 @@
       "wildcard": false
     },
     {
-      "title": "Casino Royale",
-      "year": 2006,
-      "type": "movie",
-      "category": "action",
-      "description": "Bond's origin.",
-      "imdb": "tt0381061",
-      "wildcard": false
-    },
-    {
       "title": "Quantum of Solace",
       "year": 2008,
       "type": "movie",
@@ -7822,39 +6823,12 @@
       "wildcard": false
     },
     {
-      "title": "Skyfall",
-      "year": 2012,
-      "type": "movie",
-      "category": "action",
-      "description": "Bond's loyalty tested.",
-      "imdb": "tt1074638",
-      "wildcard": false
-    },
-    {
       "title": "Spectre",
       "year": 2015,
       "type": "movie",
       "category": "action",
       "description": "Bond faces Spectre.",
       "imdb": "tt2379713",
-      "wildcard": false
-    },
-    {
-      "title": "No Time to Die",
-      "year": 2021,
-      "type": "movie",
-      "category": "action",
-      "description": "Bond's finale.",
-      "imdb": "tt2382320",
-      "wildcard": false
-    },
-    {
-      "title": "Taken",
-      "year": 2008,
-      "type": "movie",
-      "category": "action",
-      "description": "Father rescues daughter.",
-      "imdb": "tt0936501",
       "wildcard": false
     },
     {
@@ -7975,24 +6949,6 @@
       "wildcard": false
     },
     {
-      "title": "Man on Fire",
-      "year": 2004,
-      "type": "movie",
-      "category": "action",
-      "description": "Bodyguard's revenge.",
-      "imdb": "tt0324101",
-      "wildcard": false
-    },
-    {
-      "title": "Collateral",
-      "year": 2004,
-      "type": "movie",
-      "category": "action",
-      "description": "Cabbie and hitman.",
-      "imdb": "tt0369339",
-      "wildcard": false
-    },
-    {
       "title": "Shoot 'Em Up",
       "year": 2007,
       "type": "movie",
@@ -8038,15 +6994,6 @@
       "wildcard": false
     },
     {
-      "title": "300",
-      "year": 2006,
-      "type": "movie",
-      "category": "action",
-      "description": "Spartan battle.",
-      "imdb": "tt0416449",
-      "wildcard": false
-    },
-    {
       "title": "Watchmen",
       "year": 2009,
       "type": "movie",
@@ -8080,15 +7027,6 @@
       "category": "action",
       "description": "Sequel.",
       "imdb": "tt0458481",
-      "wildcard": false
-    },
-    {
-      "title": "300: Rise of an Empire",
-      "year": 2014,
-      "type": "movie",
-      "category": "action",
-      "description": "Greek vs Persian.",
-      "imdb": "tt1253107",
       "wildcard": false
     },
     {
@@ -8290,15 +7228,6 @@
       "wildcard": false
     },
     {
-      "title": "Jungle Cruise",
-      "year": 2021,
-      "type": "movie",
-      "category": "action",
-      "description": "River adventure.",
-      "imdb": "tt0870155",
-      "wildcard": false
-    },
-    {
       "title": "Cruella",
       "year": 2021,
       "type": "movie",
@@ -8407,15 +7336,6 @@
       "wildcard": false
     },
     {
-      "title": "Night of the Living Dead",
-      "year": 1968,
-      "type": "movie",
-      "category": "horror",
-      "description": "Zombie classic.",
-      "imdb": "tt0063350",
-      "wildcard": false
-    },
-    {
       "title": "The Wicker Man",
       "year": 1973,
       "type": "movie",
@@ -8452,48 +7372,12 @@
       "wildcard": false
     },
     {
-      "title": "Halloween",
-      "year": 1978,
-      "type": "movie",
-      "category": "horror",
-      "description": "Michael Myers.",
-      "imdb": "tt0077651",
-      "wildcard": false
-    },
-    {
-      "title": "Dawn of the Dead",
-      "year": 1978,
-      "type": "movie",
-      "category": "horror",
-      "description": "Mall zombies.",
-      "imdb": "tt0077402",
-      "wildcard": false
-    },
-    {
-      "title": "Alien",
-      "year": 1979,
-      "type": "movie",
-      "category": "horror",
-      "description": "Space horror.",
-      "imdb": "tt0078748",
-      "wildcard": false
-    },
-    {
       "title": "The Amityville Horror",
       "year": 1979,
       "type": "movie",
       "category": "horror",
       "description": "Haunted house.",
       "imdb": "tt0078767",
-      "wildcard": false
-    },
-    {
-      "title": "The Shining",
-      "year": 1980,
-      "type": "movie",
-      "category": "horror",
-      "description": "Hotel madness.",
-      "imdb": "tt0081505",
       "wildcard": false
     },
     {
@@ -8521,15 +7405,6 @@
       "category": "horror",
       "description": "Cabin demons.",
       "imdb": "tt0083907",
-      "wildcard": false
-    },
-    {
-      "title": "The Thing",
-      "year": 1982,
-      "type": "movie",
-      "category": "horror",
-      "description": "Shape-shifter.",
-      "imdb": "tt0084787",
       "wildcard": false
     },
     {
@@ -8575,15 +7450,6 @@
       "category": "horror",
       "description": "Cult kids.",
       "imdb": "tt0087050",
-      "wildcard": false
-    },
-    {
-      "title": "Nightmare on Elm Street",
-      "year": 1984,
-      "type": "movie",
-      "category": "horror",
-      "description": "Freddy Krueger.",
-      "imdb": "tt0087800",
       "wildcard": false
     },
     {
@@ -8647,15 +7513,6 @@
       "category": "horror",
       "description": "Vampire teens.",
       "imdb": "tt0093409",
-      "wildcard": false
-    },
-    {
-      "title": "Predator",
-      "year": 1987,
-      "type": "movie",
-      "category": "horror",
-      "description": "Jungle hunter.",
-      "imdb": "tt0093773",
       "wildcard": false
     },
     {
@@ -8749,15 +7606,6 @@
       "wildcard": false
     },
     {
-      "title": "Scream",
-      "year": 1996,
-      "type": "movie",
-      "category": "horror",
-      "description": "Meta slasher.",
-      "imdb": "tt0117571",
-      "wildcard": false
-    },
-    {
       "title": "Event Horizon",
       "year": 1997,
       "type": "movie",
@@ -8827,24 +7675,6 @@
       "category": "horror",
       "description": "Roller coaster.",
       "imdb": "tt0414982",
-      "wildcard": false
-    },
-    {
-      "title": "The Ring",
-      "year": 2002,
-      "type": "movie",
-      "category": "horror",
-      "description": "Cursed tape.",
-      "imdb": "tt0298130",
-      "wildcard": false
-    },
-    {
-      "title": "The Grudge",
-      "year": 2004,
-      "type": "movie",
-      "category": "horror",
-      "description": "Japanese curse.",
-      "imdb": "tt0391198",
       "wildcard": false
     },
     {
@@ -8947,15 +7777,6 @@
       "wildcard": false
     },
     {
-      "title": "28 Weeks Later",
-      "year": 2007,
-      "type": "movie",
-      "category": "horror",
-      "description": "Zombie sequel.",
-      "imdb": "tt0462876",
-      "wildcard": false
-    },
-    {
       "title": "I Am Legend",
       "year": 2007,
       "type": "movie",
@@ -9028,42 +7849,6 @@
       "wildcard": false
     },
     {
-      "title": "Insidious",
-      "year": 2010,
-      "type": "movie",
-      "category": "horror",
-      "description": "Further.",
-      "imdb": "tt1591095",
-      "wildcard": false
-    },
-    {
-      "title": "Insidious: Chapter 2",
-      "year": 2013,
-      "type": "movie",
-      "category": "horror",
-      "description": "Lambert family.",
-      "imdb": "tt2221780",
-      "wildcard": false
-    },
-    {
-      "title": "Sinister",
-      "year": 2012,
-      "type": "movie",
-      "category": "horror",
-      "description": "Home movies.",
-      "imdb": "tt1922777",
-      "wildcard": false
-    },
-    {
-      "title": "The Conjuring",
-      "year": 2013,
-      "type": "movie",
-      "category": "horror",
-      "description": "Warrens.",
-      "imdb": "tt1457767",
-      "wildcard": false
-    },
-    {
       "title": "You're Next",
       "year": 2011,
       "type": "movie",
@@ -9127,33 +7912,6 @@
       "wildcard": false
     },
     {
-      "title": "Annabelle",
-      "year": 2014,
-      "type": "movie",
-      "category": "horror",
-      "description": "Evil doll.",
-      "imdb": "tt3322904",
-      "wildcard": false
-    },
-    {
-      "title": "It Follows",
-      "year": 2014,
-      "type": "movie",
-      "category": "horror",
-      "description": "STD curse.",
-      "imdb": "tt3235450",
-      "wildcard": false
-    },
-    {
-      "title": "The Babadook",
-      "year": 2014,
-      "type": "movie",
-      "category": "horror",
-      "description": "Pop-up book.",
-      "imdb": "tt2321549",
-      "wildcard": false
-    },
-    {
       "title": "Crimson Peak",
       "year": 2015,
       "type": "movie",
@@ -9172,84 +7930,12 @@
       "wildcard": false
     },
     {
-      "title": "The Witch",
-      "year": 2015,
-      "type": "movie",
-      "category": "horror",
-      "description": "New England.",
-      "imdb": "tt4263482",
-      "wildcard": false
-    },
-    {
-      "title": "Train to Busan",
-      "year": 2016,
-      "type": "movie",
-      "category": "horror",
-      "description": "Zombie train.",
-      "imdb": "tt5700672",
-      "wildcard": false
-    },
-    {
       "title": "Don't Breathe",
       "year": 2016,
       "type": "movie",
       "category": "horror",
       "description": "Blind man.",
       "imdb": "tt4162816",
-      "wildcard": false
-    },
-    {
-      "title": "Get Out",
-      "year": 2017,
-      "type": "movie",
-      "category": "horror",
-      "description": "Social horror.",
-      "imdb": "tt5024348",
-      "wildcard": false
-    },
-    {
-      "title": "It",
-      "year": 2017,
-      "type": "movie",
-      "category": "horror",
-      "description": "Pennywise.",
-      "imdb": "tt1396484",
-      "wildcard": false
-    },
-    {
-      "title": "A Quiet Place",
-      "year": 2018,
-      "type": "movie",
-      "category": "horror",
-      "description": "Silent survival.",
-      "imdb": "tt6644200",
-      "wildcard": false
-    },
-    {
-      "title": "Hereditary",
-      "year": 2018,
-      "type": "movie",
-      "category": "horror",
-      "description": "Family curse.",
-      "imdb": "tt7784602",
-      "wildcard": false
-    },
-    {
-      "title": "Midsommar",
-      "year": 2019,
-      "type": "movie",
-      "category": "horror",
-      "description": "Daylight horror.",
-      "imdb": "tt8772262",
-      "wildcard": false
-    },
-    {
-      "title": "Us",
-      "year": 2019,
-      "type": "movie",
-      "category": "horror",
-      "description": "Doppelg\u00e4ngers.",
-      "imdb": "tt6857112",
       "wildcard": false
     },
     {
@@ -9268,24 +7954,6 @@
       "category": "horror",
       "description": "Wedding game.",
       "imdb": "tt7798634",
-      "wildcard": false
-    },
-    {
-      "title": "Doctor Sleep",
-      "year": 2019,
-      "type": "movie",
-      "category": "horror",
-      "description": "Shining sequel.",
-      "imdb": "tt5606664",
-      "wildcard": false
-    },
-    {
-      "title": "It Chapter Two",
-      "year": 2019,
-      "type": "movie",
-      "category": "horror",
-      "description": "Losers return.",
-      "imdb": "tt7349950",
       "wildcard": false
     },
     {
@@ -9361,15 +8029,6 @@
       "wildcard": false
     },
     {
-      "title": "Airplane!",
-      "year": 1980,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Disaster spoof.",
-      "imdb": "tt0080339",
-      "wildcard": false
-    },
-    {
       "title": "Caddyshack",
       "year": 1980,
       "type": "movie",
@@ -9397,15 +8056,6 @@
       "wildcard": false
     },
     {
-      "title": "Ghostbusters",
-      "year": 1984,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Paranormal comedy.",
-      "imdb": "tt0087332",
-      "wildcard": false
-    },
-    {
       "title": "Spinal Tap",
       "year": 1984,
       "type": "movie",
@@ -9421,15 +8071,6 @@
       "category": "comedy",
       "description": "Time travel.",
       "imdb": "tt0088763",
-      "wildcard": false
-    },
-    {
-      "title": "Ferris Bueller's Day Off",
-      "year": 1986,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Skipping school.",
-      "imdb": "tt0091042",
       "wildcard": false
     },
     {
@@ -9493,15 +8134,6 @@
       "category": "comedy",
       "description": "Dude ranch.",
       "imdb": "tt0101587",
-      "wildcard": false
-    },
-    {
-      "title": "Groundhog Day",
-      "year": 1993,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Time loop.",
-      "imdb": "tt0107048",
       "wildcard": false
     },
     {
@@ -9667,15 +8299,6 @@
       "wildcard": false
     },
     {
-      "title": "Zoolander",
-      "year": 2001,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Fashion comedy.",
-      "imdb": "tt0196229",
-      "wildcard": false
-    },
-    {
       "title": "My Big Fat Greek Wedding",
       "year": 2002,
       "type": "movie",
@@ -9703,30 +8326,12 @@
       "wildcard": false
     },
     {
-      "title": "Anchorman",
-      "year": 2004,
-      "type": "movie",
-      "category": "comedy",
-      "description": "News comedy.",
-      "imdb": "tt0357413",
-      "wildcard": false
-    },
-    {
       "title": "Napoleon Dynamite",
       "year": 2004,
       "type": "movie",
       "category": "comedy",
       "description": "Quirky comedy.",
       "imdb": "tt0374900",
-      "wildcard": false
-    },
-    {
-      "title": "Shaun of the Dead",
-      "year": 2004,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Zombie comedy.",
-      "imdb": "tt0365748",
       "wildcard": false
     },
     {
@@ -9757,39 +8362,12 @@
       "wildcard": false
     },
     {
-      "title": "Borat",
-      "year": 2006,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Mockumentary.",
-      "imdb": "tt0443113",
-      "wildcard": false
-    },
-    {
-      "title": "Superbad",
-      "year": 2007,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Teen comedy.",
-      "imdb": "tt0468569",
-      "wildcard": false
-    },
-    {
       "title": "Knocked Up",
       "year": 2007,
       "type": "movie",
       "category": "comedy",
       "description": "Pregnancy comedy.",
       "imdb": "tt0478311",
-      "wildcard": false
-    },
-    {
-      "title": "Hot Fuzz",
-      "year": 2007,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Action comedy.",
-      "imdb": "tt0425112",
       "wildcard": false
     },
     {
@@ -9802,15 +8380,6 @@
       "wildcard": false
     },
     {
-      "title": "Tropic Thunder",
-      "year": 2008,
-      "type": "movie",
-      "category": "comedy",
-      "description": "War movie satire.",
-      "imdb": "tt0942385",
-      "wildcard": false
-    },
-    {
       "title": "Pineapple Express",
       "year": 2008,
       "type": "movie",
@@ -9820,39 +8389,12 @@
       "wildcard": false
     },
     {
-      "title": "The Hangover",
-      "year": 2009,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Vegas comedy.",
-      "imdb": "tt1119646",
-      "wildcard": false
-    },
-    {
-      "title": "Zombieland",
-      "year": 2009,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Zombie comedy.",
-      "imdb": "tt1156398",
-      "wildcard": false
-    },
-    {
       "title": "Easy A",
       "year": 2010,
       "type": "movie",
       "category": "comedy",
       "description": "High school.",
       "imdb": "tt1282140",
-      "wildcard": false
-    },
-    {
-      "title": "Bridesmaids",
-      "year": 2011,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Wedding comedy.",
-      "imdb": "tt1478338",
       "wildcard": false
     },
     {
@@ -9883,30 +8425,12 @@
       "wildcard": false
     },
     {
-      "title": "The Grand Budapest Hotel",
-      "year": 2014,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Art comedy.",
-      "imdb": "tt2278388",
-      "wildcard": false
-    },
-    {
       "title": "Spy",
       "year": 2015,
       "type": "movie",
       "category": "comedy",
       "description": "Spy comedy.",
       "imdb": "tt3079380",
-      "wildcard": false
-    },
-    {
-      "title": "Deadpool",
-      "year": 2016,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Superhero comedy.",
-      "imdb": "tt1431045",
       "wildcard": false
     },
     {
@@ -9919,30 +8443,12 @@
       "wildcard": false
     },
     {
-      "title": "Game Night",
-      "year": 2018,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Game gone wrong.",
-      "imdb": "tt4680446",
-      "wildcard": false
-    },
-    {
       "title": "Crazy Rich Asians",
       "year": 2018,
       "type": "movie",
       "category": "comedy",
       "description": "Romance comedy.",
       "imdb": "tt3104988",
-      "wildcard": false
-    },
-    {
-      "title": "Knives Out",
-      "year": 2019,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Mystery comedy.",
-      "imdb": "tt8946378",
       "wildcard": false
     },
     {
@@ -9964,30 +8470,12 @@
       "wildcard": false
     },
     {
-      "title": "Barbie",
-      "year": 2023,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Doll comedy.",
-      "imdb": "tt15172698",
-      "wildcard": false
-    },
-    {
       "title": "Metropolis",
       "year": 1927,
       "type": "movie",
       "category": "scifi",
       "description": "Futuristic city.",
       "imdb": "tt0017137",
-      "wildcard": false
-    },
-    {
-      "title": "Frankenstein",
-      "year": 1931,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Science creates life.",
-      "imdb": "tt0021884",
       "wildcard": false
     },
     {
@@ -10015,15 +8503,6 @@
       "category": "scifi",
       "description": "Teleport accident.",
       "imdb": "tt0051628",
-      "wildcard": false
-    },
-    {
-      "title": "2001: A Space Odyssey",
-      "year": 1968,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Human evolution.",
-      "imdb": "tt0062622",
       "wildcard": false
     },
     {
@@ -10180,24 +8659,6 @@
       "wildcard": false
     },
     {
-      "title": "Alien",
-      "year": 1979,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Space horror.",
-      "imdb": "tt0078748",
-      "wildcard": false
-    },
-    {
-      "title": "Aliens",
-      "year": 1986,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Marines vs aliens.",
-      "imdb": "tt0090605",
-      "wildcard": false
-    },
-    {
       "title": "Alien 3",
       "year": 1992,
       "type": "movie",
@@ -10213,24 +8674,6 @@
       "category": "scifi",
       "description": "Clone Ripley.",
       "imdb": "tt0118183",
-      "wildcard": false
-    },
-    {
-      "title": "Blade Runner",
-      "year": 1982,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Replicant hunter.",
-      "imdb": "tt0083658",
-      "wildcard": false
-    },
-    {
-      "title": "The Thing",
-      "year": 1982,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Antarctic horror.",
-      "imdb": "tt0084787",
       "wildcard": false
     },
     {
@@ -10270,15 +8713,6 @@
       "wildcard": false
     },
     {
-      "title": "Terminator 2",
-      "year": 1991,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Judgment Day.",
-      "imdb": "tt0103064",
-      "wildcard": false
-    },
-    {
       "title": "Terminator 3",
       "year": 2003,
       "type": "movie",
@@ -10315,15 +8749,6 @@
       "wildcard": false
     },
     {
-      "title": "Back to the Future",
-      "year": 1985,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Time travel.",
-      "imdb": "tt0088763",
-      "wildcard": false
-    },
-    {
       "title": "Back to the Future II",
       "year": 1989,
       "type": "movie",
@@ -10342,39 +8767,12 @@
       "wildcard": false
     },
     {
-      "title": "RoboCop",
-      "year": 1987,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Cyborg cop.",
-      "imdb": "tt0093870",
-      "wildcard": false
-    },
-    {
-      "title": "Total Recall",
-      "year": 1990,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Mars memory.",
-      "imdb": "tt0100802",
-      "wildcard": false
-    },
-    {
       "title": "Starship Troopers",
       "year": 1997,
       "type": "movie",
       "category": "scifi",
       "description": "Bug war.",
       "imdb": "tt0120201",
-      "wildcard": false
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Simulation.",
-      "imdb": "tt0133093",
       "wildcard": false
     },
     {
@@ -10393,15 +8791,6 @@
       "category": "scifi",
       "description": "Conclusion.",
       "imdb": "tt0242653",
-      "wildcard": false
-    },
-    {
-      "title": "Minority Report",
-      "year": 2002,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Pre-crime.",
-      "imdb": "tt0181689",
       "wildcard": false
     },
     {
@@ -10450,102 +8839,12 @@
       "wildcard": false
     },
     {
-      "title": "District 9",
-      "year": 2009,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Alien slums.",
-      "imdb": "tt1136608",
-      "wildcard": false
-    },
-    {
       "title": "Avatar",
       "year": 2009,
       "type": "movie",
       "category": "scifi",
       "description": "Pandora world.",
       "imdb": "tt0499549",
-      "wildcard": false
-    },
-    {
-      "title": "Moon",
-      "year": 2009,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Lone astronaut.",
-      "imdb": "tt1182347",
-      "wildcard": false
-    },
-    {
-      "title": "Inception",
-      "year": 2010,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Dream heist.",
-      "imdb": "tt1375666",
-      "wildcard": false
-    },
-    {
-      "title": "Interstellar",
-      "year": 2014,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Space epic.",
-      "imdb": "tt0816692",
-      "wildcard": false
-    },
-    {
-      "title": "Ex Machina",
-      "year": 2014,
-      "type": "movie",
-      "category": "scifi",
-      "description": "AI thriller.",
-      "imdb": "tt0470752",
-      "wildcard": false
-    },
-    {
-      "title": "The Martian",
-      "year": 2015,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Mars survival.",
-      "imdb": "tt3659388",
-      "wildcard": false
-    },
-    {
-      "title": "Arrival",
-      "year": 2016,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Alien language.",
-      "imdb": "tt2543164",
-      "wildcard": false
-    },
-    {
-      "title": "Blade Runner 2049",
-      "year": 2017,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Sequel.",
-      "imdb": "tt1856101",
-      "wildcard": false
-    },
-    {
-      "title": "Annihilation",
-      "year": 2018,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Strange zone.",
-      "imdb": "tt2798920",
-      "wildcard": false
-    },
-    {
-      "title": "Dune",
-      "year": 2021,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Epic sci-fi.",
-      "imdb": "tt1160419",
       "wildcard": false
     },
     {
@@ -10603,15 +8902,6 @@
       "wildcard": false
     },
     {
-      "title": "The Apartment",
-      "year": 1960,
-      "type": "movie",
-      "category": "drama",
-      "description": "Romance drama.",
-      "imdb": "tt0053604",
-      "wildcard": false
-    },
-    {
       "title": "To Kill a Mockingbird",
       "year": 1962,
       "type": "movie",
@@ -10627,15 +8917,6 @@
       "category": "drama",
       "description": "Epic biography.",
       "imdb": "tt0056172",
-      "wildcard": false
-    },
-    {
-      "title": "Dr. Strangelove",
-      "year": 1964,
-      "type": "movie",
-      "category": "drama",
-      "description": "Cold War satire.",
-      "imdb": "tt0057012",
       "wildcard": false
     },
     {
@@ -10663,24 +8944,6 @@
       "category": "drama",
       "description": "Street survival.",
       "imdb": "tt0064665",
-      "wildcard": false
-    },
-    {
-      "title": "The Godfather",
-      "year": 1972,
-      "type": "movie",
-      "category": "drama",
-      "description": "Crime epic.",
-      "imdb": "tt0068646",
-      "wildcard": false
-    },
-    {
-      "title": "The Godfather Part II",
-      "year": 1974,
-      "type": "movie",
-      "category": "drama",
-      "description": "Sequel.",
-      "imdb": "tt0071562",
       "wildcard": false
     },
     {
@@ -10882,75 +9145,12 @@
       "wildcard": false
     },
     {
-      "title": "Goodfellas",
-      "year": 1990,
-      "type": "movie",
-      "category": "drama",
-      "description": "Mob rise.",
-      "imdb": "tt0099685",
-      "wildcard": false
-    },
-    {
-      "title": "Dances with Wolves",
-      "year": 1990,
-      "type": "movie",
-      "category": "drama",
-      "description": "Frontier epic.",
-      "imdb": "tt0099657",
-      "wildcard": false
-    },
-    {
-      "title": "The Silence of the Lambs",
-      "year": 1991,
-      "type": "movie",
-      "category": "drama",
-      "description": "Serial killer.",
-      "imdb": "tt0102926",
-      "wildcard": false
-    },
-    {
       "title": "Unforgiven",
       "year": 1992,
       "type": "movie",
       "category": "drama",
       "description": "Western revision.",
       "imdb": "tt0105695",
-      "wildcard": false
-    },
-    {
-      "title": "Schindler's List",
-      "year": 1993,
-      "type": "movie",
-      "category": "drama",
-      "description": "Holocaust.",
-      "imdb": "tt0108052",
-      "wildcard": false
-    },
-    {
-      "title": "Forrest Gump",
-      "year": 1994,
-      "type": "movie",
-      "category": "drama",
-      "description": "American life.",
-      "imdb": "tt0109830",
-      "wildcard": false
-    },
-    {
-      "title": "Pulp Fiction",
-      "year": 1994,
-      "type": "movie",
-      "category": "drama",
-      "description": "Crime anthology.",
-      "imdb": "tt0110912",
-      "wildcard": false
-    },
-    {
-      "title": "Braveheart",
-      "year": 1995,
-      "type": "movie",
-      "category": "drama",
-      "description": "Scottish epic.",
-      "imdb": "tt0112573",
       "wildcard": false
     },
     {
@@ -10981,15 +9181,6 @@
       "wildcard": false
     },
     {
-      "title": "Saving Private Ryan",
-      "year": 1998,
-      "type": "movie",
-      "category": "drama",
-      "description": "WWII.",
-      "imdb": "tt0120659",
-      "wildcard": false
-    },
-    {
       "title": "American Beauty",
       "year": 1999,
       "type": "movie",
@@ -10999,39 +9190,12 @@
       "wildcard": false
     },
     {
-      "title": "Gladiator",
-      "year": 2000,
-      "type": "movie",
-      "category": "drama",
-      "description": "Roman arena.",
-      "imdb": "tt0172495",
-      "wildcard": false
-    },
-    {
       "title": "A Beautiful Mind",
       "year": 2001,
       "type": "movie",
       "category": "drama",
       "description": "Mathematician.",
       "imdb": "tt0268978",
-      "wildcard": false
-    },
-    {
-      "title": "The Pianist",
-      "year": 2002,
-      "type": "movie",
-      "category": "drama",
-      "description": "Holocaust survival.",
-      "imdb": "tt0253474",
-      "wildcard": false
-    },
-    {
-      "title": "Mystic River",
-      "year": 2003,
-      "type": "movie",
-      "category": "drama",
-      "description": "Tragedy.",
-      "imdb": "tt0327056",
       "wildcard": false
     },
     {
@@ -11068,24 +9232,6 @@
       "category": "drama",
       "description": "Crime thriller.",
       "imdb": "tt0407887",
-      "wildcard": false
-    },
-    {
-      "title": "No Country for Old Men",
-      "year": 2007,
-      "type": "movie",
-      "category": "drama",
-      "description": "Crime chase.",
-      "imdb": "tt0477348",
-      "wildcard": false
-    },
-    {
-      "title": "There Will Be Blood",
-      "year": 2007,
-      "type": "movie",
-      "category": "drama",
-      "description": "Oil epic.",
-      "imdb": "tt0469494",
       "wildcard": false
     },
     {
@@ -11143,66 +9289,12 @@
       "wildcard": false
     },
     {
-      "title": "12 Years a Slave",
-      "year": 2013,
-      "type": "movie",
-      "category": "drama",
-      "description": "Slavery.",
-      "imdb": "tt2024544",
-      "wildcard": false
-    },
-    {
       "title": "Birdman",
       "year": 2014,
       "type": "movie",
       "category": "drama",
       "description": "Actor's crisis.",
       "imdb": "tt0838473",
-      "wildcard": false
-    },
-    {
-      "title": "Spotlight",
-      "year": 2015,
-      "type": "movie",
-      "category": "drama",
-      "description": "Investigation.",
-      "imdb": "tt1895587",
-      "wildcard": false
-    },
-    {
-      "title": "Moonlight",
-      "year": 2016,
-      "type": "movie",
-      "category": "drama",
-      "description": "Coming of age.",
-      "imdb": "tt4975722",
-      "wildcard": false
-    },
-    {
-      "title": "The Shape of Water",
-      "year": 2017,
-      "type": "movie",
-      "category": "drama",
-      "description": "Romance fantasy.",
-      "imdb": "tt5580390",
-      "wildcard": false
-    },
-    {
-      "title": "Green Book",
-      "year": 2018,
-      "type": "movie",
-      "category": "drama",
-      "description": "Road trip.",
-      "imdb": "tt6966692",
-      "wildcard": false
-    },
-    {
-      "title": "Parasite",
-      "year": 2019,
-      "type": "movie",
-      "category": "drama",
-      "description": "Class struggle.",
-      "imdb": "tt6751668",
       "wildcard": false
     },
     {
@@ -11215,57 +9307,12 @@
       "wildcard": false
     },
     {
-      "title": "CODA",
-      "year": 2021,
-      "type": "movie",
-      "category": "drama",
-      "description": "Deaf family.",
-      "imdb": "tt10366460",
-      "wildcard": false
-    },
-    {
-      "title": "Everything Everywhere All at Once",
-      "year": 2022,
-      "type": "movie",
-      "category": "drama",
-      "description": "Multiverse.",
-      "imdb": "tt6710474",
-      "wildcard": false
-    },
-    {
-      "title": "Oppenheimer",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "Atomic bomb.",
-      "imdb": "tt15398776",
-      "wildcard": false
-    },
-    {
-      "title": "Tenet",
-      "year": 2020,
-      "type": "movie",
-      "category": "action",
-      "description": "Time inversion.",
-      "imdb": "tt6723592",
-      "wildcard": false
-    },
-    {
       "title": "Wonder Woman 1984",
       "year": 2020,
       "type": "movie",
       "category": "action",
       "description": "80s adventure.",
       "imdb": "tt7126948",
-      "wildcard": false
-    },
-    {
-      "title": "Mulan",
-      "year": 2020,
-      "type": "movie",
-      "category": "action",
-      "description": "Live action.",
-      "imdb": "tt4566758",
       "wildcard": false
     },
     {
@@ -11350,30 +9397,12 @@
       "wildcard": false
     },
     {
-      "title": "Spider-Man: Across the Spider-Verse",
-      "year": 2023,
-      "type": "movie",
-      "category": "action",
-      "description": "Animation.",
-      "imdb": "tt9362722",
-      "wildcard": false
-    },
-    {
       "title": "TMNT: Mutant Mayhem",
       "year": 2023,
       "type": "movie",
       "category": "action",
       "description": "Animation.",
       "imdb": "tt16414126",
-      "wildcard": false
-    },
-    {
-      "title": "Run",
-      "year": 2020,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Mother's secrets.",
-      "imdb": "tt8053184",
       "wildcard": false
     },
     {
@@ -11395,24 +9424,6 @@
       "wildcard": false
     },
     {
-      "title": "Pieces of a Woman",
-      "year": 2020,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Tragic loss.",
-      "imdb": "tt11193502",
-      "wildcard": false
-    },
-    {
-      "title": "I Care a Lot",
-      "year": 2020,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Legal guardian.",
-      "imdb": "tt9894042",
-      "wildcard": false
-    },
-    {
       "title": "Nightmare Alley",
       "year": 2021,
       "type": "movie",
@@ -11422,48 +9433,12 @@
       "wildcard": false
     },
     {
-      "title": "The Guilty",
-      "year": 2021,
-      "type": "movie",
-      "category": "thriller",
-      "description": "911 call.",
-      "imdb": "tt12884458",
-      "wildcard": false
-    },
-    {
       "title": "Night House",
       "year": 2021,
       "type": "movie",
       "category": "thriller",
       "description": "Widow's horror.",
       "imdb": "tt10074196",
-      "wildcard": false
-    },
-    {
-      "title": "Fresh",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Dating horror.",
-      "imdb": "tt13403046",
-      "wildcard": false
-    },
-    {
-      "title": "No Exit",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Blizzard thriller.",
-      "imdb": "tt10887452",
-      "wildcard": false
-    },
-    {
-      "title": "Fall",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Tower climb.",
-      "imdb": "tt15353734",
       "wildcard": false
     },
     {
@@ -11482,24 +9457,6 @@
       "category": "thriller",
       "description": "Tragedy aftermath.",
       "imdb": "tt11813216",
-      "wildcard": false
-    },
-    {
-      "title": "Scream VI",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "NYC horror.",
-      "imdb": "tt17663992",
-      "wildcard": false
-    },
-    {
-      "title": "Missing",
-      "year": 2023,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Mom's search.",
-      "imdb": "tt13214470",
       "wildcard": false
     },
     {
@@ -11530,30 +9487,12 @@
       "wildcard": false
     },
     {
-      "title": "The Menu",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Fine dining.",
-      "imdb": "tt5766152",
-      "wildcard": false
-    },
-    {
       "title": "Triangle of Sadness",
       "year": 2022,
       "type": "movie",
       "category": "thriller",
       "description": "Yacht satire.",
       "imdb": "tt7325656",
-      "wildcard": false
-    },
-    {
-      "title": "The Whale",
-      "year": 2022,
-      "type": "movie",
-      "category": "thriller",
-      "description": "Recluse drama.",
-      "imdb": "tt13833688",
       "wildcard": false
     },
     {
@@ -11608,24 +9547,6 @@
       "category": "horror",
       "description": "Religious horror.",
       "imdb": "tt8140150",
-      "wildcard": false
-    },
-    {
-      "title": "Possessor",
-      "year": 2020,
-      "type": "movie",
-      "category": "horror",
-      "description": "Body horror.",
-      "imdb": "tt5933402",
-      "wildcard": false
-    },
-    {
-      "title": "Love and Monsters",
-      "year": 2020,
-      "type": "movie",
-      "category": "horror",
-      "description": "Post-apocalyptic.",
-      "imdb": "tt14695300",
       "wildcard": false
     },
     {
@@ -11728,168 +9649,6 @@
       "wildcard": false
     },
     {
-      "title": "X",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Filmmakers.",
-      "imdb": "tt13433812",
-      "wildcard": false
-    },
-    {
-      "title": "Fresh",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Dating horror.",
-      "imdb": "tt13403046",
-      "wildcard": false
-    },
-    {
-      "title": "Nope",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Sky horror.",
-      "imdb": "tt10919420",
-      "wildcard": false
-    },
-    {
-      "title": "Smile",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Curse spreads.",
-      "imdb": "tt11563970",
-      "wildcard": false
-    },
-    {
-      "title": "Barbarian",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Rental terror.",
-      "imdb": "tt11245972",
-      "wildcard": false
-    },
-    {
-      "title": "Pearl",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Origin story.",
-      "imdb": "tt16218674",
-      "wildcard": false
-    },
-    {
-      "title": "Terrifier 2",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Art returns.",
-      "imdb": "tt8816418",
-      "wildcard": false
-    },
-    {
-      "title": "The Menu",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Chef horror.",
-      "imdb": "tt5766152",
-      "wildcard": false
-    },
-    {
-      "title": "Skinamarink",
-      "year": 2022,
-      "type": "movie",
-      "category": "horror",
-      "description": "Childhood fear.",
-      "imdb": "tt20727618",
-      "wildcard": false
-    },
-    {
-      "title": "Knock at the Cabin",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Family hostage.",
-      "imdb": "tt16226746",
-      "wildcard": false
-    },
-    {
-      "title": "Cocaine Bear",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Animal horror.",
-      "imdb": "tt14209916",
-      "wildcard": false
-    },
-    {
-      "title": "Scream VI",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Ghostface NYC.",
-      "imdb": "tt17663992",
-      "wildcard": false
-    },
-    {
-      "title": "Evil Dead Rise",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Deadites return.",
-      "imdb": "tt13360360",
-      "wildcard": false
-    },
-    {
-      "title": "The Pope's Exorcist",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Exorcism.",
-      "imdb": "tt13292120",
-      "wildcard": false
-    },
-    {
-      "title": "Renfield",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Vampire comedy.",
-      "imdb": "tt11394170",
-      "wildcard": false
-    },
-    {
-      "title": "The Boogeyman",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Bedtime horror.",
-      "imdb": "tt6283178",
-      "wildcard": false
-    },
-    {
-      "title": "Insidious: The Red Door",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Sequel.",
-      "imdb": "tt13405716",
-      "wildcard": false
-    },
-    {
-      "title": "Talk to Me",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Possession.",
-      "imdb": "tt11857918",
-      "wildcard": false
-    },
-    {
       "title": "Haunted Mansion",
       "year": 2023,
       "type": "movie",
@@ -11899,156 +9658,12 @@
       "wildcard": false
     },
     {
-      "title": "The Nun II",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Sequel.",
-      "imdb": "tt10171856",
-      "wildcard": false
-    },
-    {
-      "title": "Saw X",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Jigsaw returns.",
-      "imdb": "tt8541860",
-      "wildcard": false
-    },
-    {
-      "title": "Thanksgiving",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Holiday slasher.",
-      "imdb": "tt10738522",
-      "wildcard": false
-    },
-    {
-      "title": "Five Nights at Freddy's",
-      "year": 2023,
-      "type": "movie",
-      "category": "horror",
-      "description": "Game adaptation.",
-      "imdb": "tt27754718",
-      "wildcard": false
-    },
-    {
-      "title": "Imaginary",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "Teddy bear.",
-      "imdb": "tt21806390",
-      "wildcard": false
-    },
-    {
-      "title": "Night Swim",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "Pool horror.",
-      "imdb": "tt11230612",
-      "wildcard": false
-    },
-    {
-      "title": "Lisa Frankenstein",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "Reanimation.",
-      "imdb": "tt13278046",
-      "wildcard": false
-    },
-    {
-      "title": "Abigail",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "Vampire girl.",
-      "imdb": "tt26810804",
-      "wildcard": false
-    },
-    {
       "title": "The First Omen",
       "year": 2024,
       "type": "movie",
       "category": "horror",
       "description": "Prequel.",
       "imdb": "tt11814448",
-      "wildcard": false
-    },
-    {
-      "title": "Civil War",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "Dystopian.",
-      "imdb": "tt23971364",
-      "wildcard": false
-    },
-    {
-      "title": "A Quiet Place: Day One",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "Prequel.",
-      "imdb": "tt11823346",
-      "wildcard": false
-    },
-    {
-      "title": "Longlegs",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "FBI horror.",
-      "imdb": "tt24670528",
-      "wildcard": false
-    },
-    {
-      "title": "MaXXXine",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "Hollywood horror.",
-      "imdb": "tt23251922",
-      "wildcard": false
-    },
-    {
-      "title": "Trap",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "Concert thriller.",
-      "imdb": "tt25951568",
-      "wildcard": false
-    },
-    {
-      "title": "Alien: Romulus",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "Sci-fi horror.",
-      "imdb": "tt18412232",
-      "wildcard": false
-    },
-    {
-      "title": "Speak No Evil",
-      "year": 2024,
-      "type": "movie",
-      "category": "horror",
-      "description": "Family horror.",
-      "imdb": "tt28634968",
-      "wildcard": false
-    },
-    {
-      "title": "Promising Young Woman",
-      "year": 2020,
-      "type": "movie",
-      "category": "drama",
-      "description": "Revenge.",
-      "imdb": "tt9620308",
       "wildcard": false
     },
     {
@@ -12079,15 +9694,6 @@
       "wildcard": false
     },
     {
-      "title": "The Power of the Dog",
-      "year": 2021,
-      "type": "movie",
-      "category": "drama",
-      "description": "Ranch drama.",
-      "imdb": "tt10214818",
-      "wildcard": false
-    },
-    {
       "title": "Licorice Pizza",
       "year": 2021,
       "type": "movie",
@@ -12103,24 +9709,6 @@
       "category": "drama",
       "description": "Remake.",
       "imdb": "tt3581652",
-      "wildcard": false
-    },
-    {
-      "title": "Belfast",
-      "year": 2021,
-      "type": "movie",
-      "category": "drama",
-      "description": "Irish childhood.",
-      "imdb": "tt12742610",
-      "wildcard": false
-    },
-    {
-      "title": "The Batman",
-      "year": 2022,
-      "type": "movie",
-      "category": "drama",
-      "description": "Dark knight.",
-      "imdb": "tt1877830",
       "wildcard": false
     },
     {
@@ -12169,87 +9757,6 @@
       "wildcard": false
     },
     {
-      "title": "Killers of the Flower Moon",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "Osage murders.",
-      "imdb": "tt5537002",
-      "wildcard": false
-    },
-    {
-      "title": "Oppenheimer",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "Bomb.",
-      "imdb": "tt15398776",
-      "wildcard": false
-    },
-    {
-      "title": "Poor Things",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "Bella.",
-      "imdb": "tt14230458",
-      "wildcard": false
-    },
-    {
-      "title": "The Holdovers",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "School break.",
-      "imdb": "tt14849194",
-      "wildcard": false
-    },
-    {
-      "title": "Past Lives",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "First love.",
-      "imdb": "tt13238346",
-      "wildcard": false
-    },
-    {
-      "title": "American Fiction",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "Writer's satire.",
-      "imdb": "tt24555480",
-      "wildcard": false
-    },
-    {
-      "title": "Anatomy of a Fall",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "Murder trial.",
-      "imdb": "tt17009710",
-      "wildcard": false
-    },
-    {
-      "title": "The Zone of Interest",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "Holocaust.",
-      "imdb": "tt7160372",
-      "wildcard": false
-    },
-    {
-      "title": "Saltburn",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "Class drama.",
-      "imdb": "tt25867128",
-      "wildcard": false
-    },
-    {
       "title": "May December",
       "year": 2023,
       "type": "movie",
@@ -12286,15 +9793,6 @@
       "wildcard": false
     },
     {
-      "title": "Maestro",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "Bernstein.",
-      "imdb": "tt12752260",
-      "wildcard": false
-    },
-    {
       "title": "Ferrari",
       "year": 2023,
       "type": "movie",
@@ -12304,30 +9802,12 @@
       "wildcard": false
     },
     {
-      "title": "The Iron Claw",
-      "year": 2023,
-      "type": "movie",
-      "category": "drama",
-      "description": "Wrestling family.",
-      "imdb": "tt11122052",
-      "wildcard": false
-    },
-    {
       "title": "All of Us Strangers",
       "year": 2023,
       "type": "movie",
       "category": "drama",
       "description": "Childhood.",
       "imdb": "tt21866228",
-      "wildcard": false
-    },
-    {
-      "title": "Palm Springs",
-      "year": 2020,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Time loop.",
-      "imdb": "tt9484996",
       "wildcard": false
     },
     {
@@ -12349,120 +9829,12 @@
       "wildcard": false
     },
     {
-      "title": "Palm Springs",
-      "year": 2020,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Wedding loop.",
-      "imdb": "tt9484996",
-      "wildcard": false
-    },
-    {
       "title": "The Trial of the Chicago 7",
       "year": 2020,
       "type": "movie",
       "category": "comedy",
       "description": "Courtroom.",
       "imdb": "tt10708290",
-      "wildcard": false
-    },
-    {
-      "title": "Borat Subsequent Moviefilm",
-      "year": 2020,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Sequel.",
-      "imdb": "tt14090248",
-      "wildcard": false
-    },
-    {
-      "title": "Don't Look Up",
-      "year": 2021,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Climate satire.",
-      "imdb": "tt11286314",
-      "wildcard": false
-    },
-    {
-      "title": "Free Guy",
-      "year": 2021,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Game world.",
-      "imdb": "tt8365908",
-      "wildcard": false
-    },
-    {
-      "title": "Red Notice",
-      "year": 2021,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Art theft.",
-      "imdb": "tt7995924",
-      "wildcard": false
-    },
-    {
-      "title": "Ghostbusters: Afterlife",
-      "year": 2021,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Sequel.",
-      "imdb": "tt4513678",
-      "wildcard": false
-    },
-    {
-      "title": "Licorice Pizza",
-      "year": 2021,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Valley life.",
-      "imdb": "tt11233460",
-      "wildcard": false
-    },
-    {
-      "title": "The Lost City",
-      "year": 2022,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Jungle adventure.",
-      "imdb": "tt13320622",
-      "wildcard": false
-    },
-    {
-      "title": "Bullet Train",
-      "year": 2022,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Train action.",
-      "imdb": "tt12590506",
-      "wildcard": false
-    },
-    {
-      "title": "Everything Everywhere All at Once",
-      "year": 2022,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Multiverse.",
-      "imdb": "tt6710474",
-      "wildcard": false
-    },
-    {
-      "title": "Glass Onion",
-      "year": 2022,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Mystery.",
-      "imdb": "tt11564570",
-      "wildcard": false
-    },
-    {
-      "title": "The Menu",
-      "year": 2022,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Dining.",
-      "imdb": "tt5766152",
       "wildcard": false
     },
     {
@@ -12484,132 +9856,6 @@
       "wildcard": false
     },
     {
-      "title": "No Hard Feelings",
-      "year": 2023,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Dating comedy.",
-      "imdb": "tt15671028",
-      "wildcard": false
-    },
-    {
-      "title": "Barbie",
-      "year": 2023,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Doll world.",
-      "imdb": "tt15172698",
-      "wildcard": false
-    },
-    {
-      "title": "Joy Ride",
-      "year": 2023,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Asian adventure.",
-      "imdb": "tt22076500",
-      "wildcard": false
-    },
-    {
-      "title": "Dungeons & Dragons",
-      "year": 2023,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Fantasy.",
-      "imdb": "tt2906216",
-      "wildcard": false
-    },
-    {
-      "title": "Bottoms",
-      "year": 2023,
-      "type": "movie",
-      "category": "comedy",
-      "description": "High school.",
-      "imdb": "tt21705654",
-      "wildcard": false
-    },
-    {
-      "title": "Dumb Money",
-      "year": 2023,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Stock saga.",
-      "imdb": "tt15039320",
-      "wildcard": false
-    },
-    {
-      "title": "Anyone But You",
-      "year": 2023,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Romance.",
-      "imdb": "tt22739012",
-      "wildcard": false
-    },
-    {
-      "title": "Argylle",
-      "year": 2024,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Spy comedy.",
-      "imdb": "tt18010728",
-      "wildcard": false
-    },
-    {
-      "title": "Madame Web",
-      "year": 2024,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Superhero.",
-      "imdb": "tt11074066",
-      "wildcard": false
-    },
-    {
-      "title": "Inside Out 2",
-      "year": 2024,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Emotions.",
-      "imdb": "tt22022452",
-      "wildcard": false
-    },
-    {
-      "title": "A Real Pain",
-      "year": 2024,
-      "type": "movie",
-      "category": "comedy",
-      "description": "Poland trip.",
-      "imdb": "tt24671096",
-      "wildcard": false
-    },
-    {
-      "title": "Tenet",
-      "year": 2020,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Time inversion.",
-      "imdb": "tt6723592",
-      "wildcard": false
-    },
-    {
-      "title": "Soul",
-      "year": 2020,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Afterlife.",
-      "imdb": "tt2948372",
-      "wildcard": false
-    },
-    {
-      "title": "The Midnight Sky",
-      "year": 2020,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Post-apocalypse.",
-      "imdb": "tt2391522",
-      "wildcard": false
-    },
-    {
       "title": "Chaos Walking",
       "year": 2021,
       "type": "movie",
@@ -12619,57 +9865,12 @@
       "wildcard": false
     },
     {
-      "title": "Voyagers",
-      "year": 2021,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Space journey.",
-      "imdb": "tt7214210",
-      "wildcard": false
-    },
-    {
       "title": "Oxygen",
       "year": 2021,
       "type": "movie",
       "category": "scifi",
       "description": "Cryo chamber.",
       "imdb": "tt11871580",
-      "wildcard": false
-    },
-    {
-      "title": "Infinite",
-      "year": 2021,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Past lives.",
-      "imdb": "tt1263274",
-      "wildcard": false
-    },
-    {
-      "title": "Dune",
-      "year": 2021,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Desert planet.",
-      "imdb": "tt1160419",
-      "wildcard": false
-    },
-    {
-      "title": "The Matrix Resurrections",
-      "year": 2021,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Sequel.",
-      "imdb": "tt10838180",
-      "wildcard": false
-    },
-    {
-      "title": "Don't Look Up",
-      "year": 2021,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Comet warning.",
-      "imdb": "tt11286314",
       "wildcard": false
     },
     {
@@ -12691,75 +9892,12 @@
       "wildcard": false
     },
     {
-      "title": "Everything Everywhere All at Once",
-      "year": 2022,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Multiverse.",
-      "imdb": "tt6710474",
-      "wildcard": false
-    },
-    {
       "title": "Crater",
       "year": 2023,
       "type": "movie",
       "category": "scifi",
       "description": "Moon adventure.",
       "imdb": "tt13279560",
-      "wildcard": false
-    },
-    {
-      "title": "The Creator",
-      "year": 2023,
-      "type": "movie",
-      "category": "scifi",
-      "description": "AI war.",
-      "imdb": "tt11858890",
-      "wildcard": false
-    },
-    {
-      "title": "Dune Part Two",
-      "year": 2024,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Sequel.",
-      "imdb": "tt15239678",
-      "wildcard": false
-    },
-    {
-      "title": "Atlas",
-      "year": 2024,
-      "type": "movie",
-      "category": "scifi",
-      "description": "AI thriller.",
-      "imdb": "tt14857918",
-      "wildcard": false
-    },
-    {
-      "title": "I.S.S.",
-      "year": 2024,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Space station.",
-      "imdb": "tt14498316",
-      "wildcard": false
-    },
-    {
-      "title": "Spaceman",
-      "year": 2024,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Jupiter mission.",
-      "imdb": "tt16389854",
-      "wildcard": false
-    },
-    {
-      "title": "Kingdom of the Planet of the Apes",
-      "year": 2024,
-      "type": "movie",
-      "category": "scifi",
-      "description": "Apes sequel.",
-      "imdb": "tt11337956",
       "wildcard": false
     }
   ]
