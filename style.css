@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+    min-height: 100vh;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    background: linear-gradient(90deg, #e94560, #ff6b6b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.tagline {
+    color: #888;
+    margin-bottom: 40px;
+    font-size: 1.1rem;
+}
+
+.filters {
+    background: rgba(255,255,255,0.05);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 30px;
+}
+
+.filter-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.filter-group:last-child {
+    margin-bottom: 0;
+}
+
+.filter-group label {
+    display: block;
+    margin-bottom: 10px;
+    color: #aaa;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.btn-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.filter-btn {
+    background: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.2);
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-size: 0.9rem;
+}
+
+.filter-btn:hover {
+    background: rgba(255,255,255,0.2);
+}
+
+.filter-btn.active {
+    background: #e94560;
+    border-color: #e94560;
+}
+
+#wildcard {
+    width: 18px;
+    height: 18px;
+    accent-color: #e94560;
+}
+
+.filter-group label[for="wildcard"] {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.wildcard-hint {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.spin-btn {
+    background: linear-gradient(135deg, #e94560, #ff6b6b);
+    border: none;
+    color: white;
+    padding: 20px 60px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: inline-flex;
+    align-items: center;
+    gap: 15px;
+    box-shadow: 0 10px 30px rgba(233,69,96,0.3);
+}
+
+.spin-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 15px 40px rgba(233,69,96,0.4);
+}
+
+.spin-btn:active {
+    transform: translateY(0);
+}
+
+.spin-btn.spinning .btn-icon {
+    animation: spin 0.5s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.result {
+    margin-top: 40px;
+    display: none;
+    animation: fadeIn 0.5s ease-out;
+}
+
+.result.show {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.poster {
+    width: 200px;
+    height: 300px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+}
+
+.info {
+    text-align: center;
+}
+
+.info h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.meta {
+    color: #888;
+    font-size: 0.95rem;
+    margin-bottom: 15px;
+}
+
+.description {
+    color: #aaa;
+    line-height: 1.6;
+    max-width: 500px;
+    margin: 0 auto 15px;
+}
+
+.tags {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.tags span {
+    background: rgba(255,255,255,0.1);
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    color: #555;
+    font-size: 0.85rem;
+}
+
+@media (min-width: 768px) {
+    .result.show {
+        flex-direction: row;
+        align-items: flex-start;
+        text-align: left;
+    }
+    
+    .info {
+        text-align: left;
+    }
+    
+    .description {
+        margin: 0 0 15px 0;
+    }
+    
+    .tags {
+        justify-content: flex-start;
+    }
+}

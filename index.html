@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Roulette</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎬 Movie Roulette</h1>
+        <p class="tagline">Can't decide? Let fate choose.</p>
+        
+        <div class="filters">
+            <div class="filter-group">
+                <label>Type</label>
+                <div class="btn-group">
+                    <button class="filter-btn active" data-type="all">All</button>
+                    <button class="filter-btn" data-type="movie">Movie</button>
+                    <button class="filter-btn" data-type="series">Series</button>
+                </div>
+            </div>
+            
+            <div class="filter-group">
+                <label>Category</label>
+                <div class="btn-group">
+                    <button class="filter-btn active" data-category="all">All</button>
+                    <button class="filter-btn" data-category="action">Action</button>
+                    <button class="filter-btn" data-category="comedy">Comedy</button>
+                    <button class="filter-btn" data-category="drama">Drama</button>
+                    <button class="filter-btn" data-category="horror">Horror</button>
+                    <button class="filter-btn" data-category="scifi">Sci-Fi</button>
+                    <button class="filter-btn" data-category="thriller">Thriller</button>
+                </div>
+            </div>
+            
+            <div class="filter-group">
+                <label>
+                    <input type="checkbox" id="wildcard"> 
+                    <span>🎲 Wildcard Mode</span>
+                </label>
+                <p class="wildcard-hint">Something unusual or underrated</p>
+            </div>
+        </div>
+        
+        <button class="spin-btn" id="spinBtn">
+            <span class="btn-text">SPIN</span>
+            <span class="btn-icon">🎰</span>
+        </button>
+        
+        <div class="result" id="result">
+            <div class="poster" id="poster"></div>
+            <div class="info">
+                <h2 id="title"></h2>
+                <div class="meta" id="meta"></div>
+                <p class="description" id="description"></p>
+                <div class="tags" id="tags"></div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>Press spin to get today's pick, or spin again for something new</p>
+    </footer>
+    
+    <script src="app.js"></script>
+</body>
+</html>
