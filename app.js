@@ -3,7 +3,8 @@ let movies = [];
 let currentFilters = {
     type: 'all',
     category: 'all',
-    wildcard: false
+    wildcard: false,
+    yearMin: null
 };
 
 // Load movies from JSON
@@ -34,6 +35,10 @@ document.getElementById('wildcard').addEventListener('change', (e) => {
     currentFilters.wildcard = e.target.checked;
 });
 
+document.getElementById('yearFilter').addEventListener('change', (e) => {
+    currentFilters.yearMin = e.target.value ? parseInt(e.target.value) : null;
+});
+
 // Spin function
 document.getElementById('spinBtn').addEventListener('click', () => {
     const btn = document.getElementById('spinBtn');
@@ -61,6 +66,10 @@ function pickRandom() {
     
     if (currentFilters.wildcard) {
         pool = pool.filter(m => m.wildcard === true);
+    }
+    
+    if (currentFilters.yearMin) {
+        pool = pool.filter(m => m.year >= currentFilters.yearMin);
     }
     
     if (pool.length === 0) {

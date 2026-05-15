@@ -259,3 +259,28 @@ footer {
         padding: 1rem 1.5rem;
     }
 }
+
+.year-select {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.year-select:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.year-select:focus {
+    outline: none;
+    border-color: #e94560;
+}
+
+.year-select option {
+    background: #1a1a2e;
+    color: #fff;
+}
