@@ -1,5 +1,5 @@
 const OMDB_API_KEY = "8accb253";
-const DATA_VERSION = "20261008b";
+const DATA_VERSION = "20261008c";
 const HISTORY_KEY = "roulette-history";
 
 const LABELS = {
@@ -22,6 +22,7 @@ const metaEl = document.getElementById("meta");
 const descriptionEl = document.getElementById("description");
 const tagsEl = document.getElementById("tags");
 const actionsEl = document.getElementById("actions");
+const watchEl = document.getElementById("watch");
 const pickLabel = document.getElementById("pickLabel");
 const liveStatus = document.getElementById("liveStatus");
 const catalogEl = document.getElementById("catalog");
@@ -31,6 +32,7 @@ const historyList = document.getElementById("historyList");
 const tonightBtn = document.getElementById("tonightBtn");
 
 let movies = [];
+let watchById = {};
 let current = null;
 let mode = "daily";
 let spinning = false;
@@ -182,12 +184,22 @@ function imdbUrl(movie) {
 }
 
 function trailerUrl(movie) {
-    return movie.imdb ? `https://www.imdb.com/title/${movie.imdb}/videogallery/content_type-trailer/` : "";
+    const query = [movie.title, movie.year, "official trailer"].filter(Boolean).join(" ");
+    return `https://www.youtube.com/results?search_query=${encodeURIComponent(query)}`;
 }
 
-function watchUrl(movie) {
-    const query = [movie.title, movie.year].filter(Boolean).join(" ");
-    return `https://www.justwatch.com/za/search?q=${encodeURIComponent(query)}`;
+const WATCH_LABELS = {
+    "Amazon Prime Video": "Prime Video",
+    "Disney Plus": "Disney+",
+    "Apple TV Plus": "Apple TV+",
+    "Apple TV": "Apple TV",
+    "Paramount Plus": "Paramount+",
+    "Paramount+": "Paramount+"
+};
+
+function watchOffers(movie) {
+    const rows = watchById[movie.imdb] || [];
+    return rows.filter((row) => row && row.name && row.url).slice(0, 6);
 }
 
 function copyText(movie) {
@@ -226,16 +238,33 @@ function externalLink(href, label, className) {
     return link;
 }
 
+function renderWatch(movie) {
+    watchEl.replaceChildren();
+    const offers = watchOffers(movie);
+    if (!offers.length) {
+        watchEl.hidden = true;
+        return;
+    }
+    watchEl.hidden = false;
+    const label = document.createElement("span");
+    label.className = "watch-label";
+    label.textContent = "Watch now";
+    watchEl.append(label);
+    offers.forEach((offer) => {
+        const link = document.createElement("a");
+        link.href = offer.url;
+        link.target = "_blank";
+        link.rel = "noopener";
+        link.textContent = WATCH_LABELS[offer.name] || offer.name;
+        watchEl.append(link);
+    });
+}
+
 function renderActions(movie) {
     actionsEl.replaceChildren();
     const imdb = imdbUrl(movie);
-    if (imdb) {
-        actionsEl.append(externalLink(imdb, "View on IMDb", "imdb-btn"));
-        actionsEl.append(externalLink(trailerUrl(movie), "Trailer", "ghost-btn"));
-    }
-    if (movie.title) {
-        actionsEl.append(externalLink(watchUrl(movie), "Where to watch", "ghost-btn"));
-    }
+    if (imdb) actionsEl.append(externalLink(imdb, "View on IMDb", "imdb-btn"));
+    if (movie.title) actionsEl.append(externalLink(trailerUrl(movie), "Trailer", "ghost-btn"));
     if (!imdb) return;
     const copyBtn = document.createElement("button");
     copyBtn.type = "button";
@@ -256,6 +285,7 @@ function show(movie, nextMode, announce) {
     metaEl.textContent = bits.join(" · ");
     descriptionEl.textContent = movie.description || "";
     fillTags(movie);
+    renderWatch(movie);
     renderActions(movie);
     setPoster(movie);
     tonightBtn.hidden = nextMode !== "spin";
@@ -383,6 +413,17 @@ document.addEventListener("keydown", (event) => {
     spin();
 });
 
+async function loadWatch() {
+    try {
+        const response = await fetch(`data/watch.json?v=${DATA_VERSION}`, { cache: "no-store" });
+        if (!response.ok) return {};
+        const data = await response.json();
+        return data && typeof data === "object" ? data : {};
+    } catch {
+        return {};
+    }
+}
+
 async function loadMovies() {
     const sources = [
         `data/movies.json?v=${DATA_VERSION}`,
@@ -403,7 +444,7 @@ async function loadMovies() {
 
 async function init() {
     renderHistory();
-    movies = await loadMovies();
+    [movies, watchById] = await Promise.all([loadMovies(), loadWatch()]);
     loaded = true;
     if (!movies.length) {
         poolCount.textContent = "Couldn't load the list. Refresh and try again.";

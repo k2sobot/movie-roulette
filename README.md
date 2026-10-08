@@ -10,7 +10,7 @@ Live: https://k2sobot.github.io/movie-roulette/
 - Filters for type, category, year, and wildcard picks
 - Keeps tonight's pick stable until you spin
 - Remembers recent spins in this browser
-- Links out to IMDb, the trailer, and where to watch in South Africa
+- Links out to IMDb, a YouTube trailer, and the US service that has the title
 
 ## Run it locally
 
