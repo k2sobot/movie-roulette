@@ -1,41 +1,43 @@
-# 🎬 Movie Roulette
+# Movie Roulette
 
-Can't decide what to watch? Let fate choose for you.
+Can't decide what to watch? Spin the shelf.
 
-## Features
+Live: https://k2sobot.github.io/movie-roulette/
 
-- **Random Selection**: Spin for a random movie or TV show
-- **Filters**: Choose between movies or series
-- **Categories**: Action, Comedy, Drama, Horror, Sci-Fi, Thriller
-- **Wildcard Mode**: Discover hidden gems and underrated picks
+## What it does
 
-## How to Use
+- Spins a movie or series from the local shelf
+- Filters for type, category, year, and wildcard picks
+- Keeps tonight's pick stable until you spin
+- Remembers recent spins, and titles you mark as seen, in this browser
+- Links out to IMDb when the title has a verified id
 
-1. Select your preferences (type, category, wildcard mode)
-2. Hit the **SPIN** button
-3. Get your pick for movie night
+## Run it locally
 
-## Adding More Content
+```bash
+python3 -m http.server 8080
+```
 
-Edit `app.js` and add entries to the `movies` array:
+Open http://localhost:8080
 
-```javascript
-{ 
-    title: "Title Here", 
-    year: 2024, 
-    type: "movie", // or "series"
-    category: "action", // action, comedy, drama, horror, scifi, thriller
-    description: "Brief description",
-    poster: "🎬", // emoji placeholder
-    wildcard: false // set true for hidden gems
+## Shelf
+
+Titles live in `data/movies.json`, not in `app.js`.
+
+```json
+{
+  "title": "Title",
+  "year": 2024,
+  "type": "movie",
+  "category": "action",
+  "description": "One line.",
+  "imdb": "tt0000000",
+  "wildcard": false
 }
 ```
 
-## Deployment
+`type` is `movie` or `series`. `category` is `action`, `comedy`, `drama`, `horror`, `scifi`, or `thriller`.
 
-Hosted on GitHub Pages. Just push to main branch.
+## Deploy
 
----
-
-Made with 🎲 and movie love.
-
+GitHub Pages serves the `main` branch.
