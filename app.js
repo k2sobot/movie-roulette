@@ -1,5 +1,5 @@
 const OMDB_API_KEY = "8accb253";
-const DATA_VERSION = "20261008d";
+const DATA_VERSION = "20261008e";
 const HISTORY_KEY = "roulette-history";
 
 const LABELS = {
@@ -33,6 +33,7 @@ const tonightBtn = document.getElementById("tonightBtn");
 
 let movies = [];
 let watchById = {};
+let rentById = {};
 let current = null;
 let mode = "daily";
 let spinning = false;
@@ -240,12 +241,7 @@ function externalLink(href, label, className) {
 }
 
 function rentOffers(movie) {
-    const query = encodeURIComponent([movie.title, movie.year].filter(Boolean).join(" "));
-    return [
-        { name: "Google", url: `https://tv.google.com/search?q=${query}&hl=en` },
-        { name: "Prime Video", url: `https://www.amazon.com/s?k=${query}&i=instant-video` },
-        { name: "Apple TV", url: `https://tv.apple.com/us/search?term=${query}` }
-    ];
+    return (rentById[movie.imdb] || []).filter((row) => row && row.name && row.url).slice(0, 6);
 }
 
 function watchRow(labelText, offers) {
@@ -432,15 +428,19 @@ document.addEventListener("keydown", (event) => {
     spin();
 });
 
-async function loadWatch() {
+async function loadOfferFile(name) {
     try {
-        const response = await fetch(`data/watch.json?v=${DATA_VERSION}`, { cache: "no-store" });
+        const response = await fetch(`data/${name}?v=${DATA_VERSION}`, { cache: "no-store" });
         if (!response.ok) return {};
         const data = await response.json();
         return data && typeof data === "object" ? data : {};
     } catch {
         return {};
     }
+}
+
+async function loadWatch() {
+    return loadOfferFile("watch.json");
 }
 
 async function loadMovies() {
@@ -463,7 +463,11 @@ async function loadMovies() {
 
 async function init() {
     renderHistory();
-    [movies, watchById] = await Promise.all([loadMovies(), loadWatch()]);
+    [movies, watchById, rentById] = await Promise.all([
+        loadMovies(),
+        loadWatch(),
+        loadOfferFile("rent.json")
+    ]);
     loaded = true;
     if (!movies.length) {
         poolCount.textContent = "Couldn't load the list. Refresh and try again.";

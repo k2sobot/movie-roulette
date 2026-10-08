@@ -11,7 +11,7 @@ Live: https://k2sobot.github.io/movie-roulette/
 - Keeps tonight's pick stable until you spin
 - Remembers recent spins in this browser
 - Filters include This year
-- Links out to IMDb, a YouTube trailer, the US service that has the title, and rent options on Google, Prime Video, and Apple TV
+- Links out to IMDb, a YouTube trailer, and only the US services that actually have the title
 
 ## Run it locally
 
