@@ -1,8 +1,6 @@
 const OMDB_API_KEY = "8accb253";
 const DATA_VERSION = "20261008b";
-const SEEN_KEY = "roulette-seen";
 const HISTORY_KEY = "roulette-history";
-const HIDE_KEY = "roulette-hide-seen";
 
 const LABELS = {
     movie: "Movie",
@@ -28,9 +26,6 @@ const pickLabel = document.getElementById("pickLabel");
 const liveStatus = document.getElementById("liveStatus");
 const catalogEl = document.getElementById("catalog");
 const clearFiltersBtn = document.getElementById("clearFilters");
-const hideSeenInput = document.getElementById("hideSeen");
-const seenHint = document.getElementById("seenHint");
-const forgetSeenBtn = document.getElementById("forgetSeen");
 const historySection = document.getElementById("history");
 const historyList = document.getElementById("historyList");
 const tonightBtn = document.getElementById("tonightBtn");
@@ -45,8 +40,7 @@ const filters = {
     type: "all",
     category: "all",
     wildcard: false,
-    year: "",
-    hideSeen: false
+    year: ""
 };
 
 function readList(key) {
@@ -66,7 +60,6 @@ function writeList(key, value) {
     }
 }
 
-let seen = new Set(readList(SEEN_KEY));
 let history = readList(HISTORY_KEY);
 
 function keyOf(movie) {
@@ -84,13 +77,12 @@ function pool() {
         if (filters.wildcard && !movie.wildcard) return false;
         if (filters.year === "pre2000" && movie.year >= 2000) return false;
         if (filters.year && filters.year !== "pre2000" && movie.year < Number(filters.year)) return false;
-        if (filters.hideSeen && seen.has(keyOf(movie))) return false;
         return true;
     });
 }
 
 function filterKey() {
-    return [filters.type, filters.category, filters.wildcard ? "w" : "", filters.year, filters.hideSeen ? "h" : ""].join("|");
+    return [filters.type, filters.category, filters.wildcard ? "w" : "", filters.year].join("|");
 }
 
 function hash(text) {
@@ -121,7 +113,7 @@ function wait(ms) {
 }
 
 function filtersActive() {
-    return filters.type !== "all" || filters.category !== "all" || filters.wildcard || filters.year || filters.hideSeen;
+    return filters.type !== "all" || filters.category !== "all" || filters.wildcard || filters.year;
 }
 
 function emptyCopy() {
@@ -148,12 +140,6 @@ function setCount(list) {
     poolCount.textContent = n === 1 ? `1 ${noun} in this spin` : `${n.toLocaleString()} ${noun} in this spin`;
     spinBtn.disabled = spinning;
     clearFiltersBtn.hidden = !filtersActive();
-}
-
-function updateSeenHint() {
-    const n = seen.size;
-    seenHint.textContent = n ? `${n} marked seen` : "";
-    forgetSeenBtn.hidden = n === 0;
 }
 
 function placeholderPoster() {
@@ -191,9 +177,21 @@ function fillTags(movie) {
     }
 }
 
+function imdbUrl(movie) {
+    return movie.imdb ? `https://www.imdb.com/title/${movie.imdb}/` : "";
+}
+
+function trailerUrl(movie) {
+    return movie.imdb ? `https://www.imdb.com/title/${movie.imdb}/videogallery/content_type-trailer/` : "";
+}
+
+function watchUrl(movie) {
+    const query = [movie.title, movie.year].filter(Boolean).join(" ");
+    return `https://www.justwatch.com/za/search?q=${encodeURIComponent(query)}`;
+}
+
 function copyText(movie) {
-    const link = movie.imdb ? `https://www.imdb.com/title/${movie.imdb}/` : "";
-    return [`${movie.title} (${movie.year})`, link].filter(Boolean).join("\n");
+    return imdbUrl(movie);
 }
 
 async function copyPick(movie, button) {
@@ -218,38 +216,33 @@ async function copyPick(movie, button) {
     }, 1200);
 }
 
-function toggleSeen(movie) {
-    const key = keyOf(movie);
-    if (seen.has(key)) seen.delete(key);
-    else seen.add(key);
-    writeList(SEEN_KEY, [...seen]);
-    updateSeenHint();
-    renderActions(movie);
-    setCount(pool());
+function externalLink(href, label, className) {
+    const link = document.createElement("a");
+    link.className = className;
+    link.href = href;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = label;
+    return link;
 }
 
 function renderActions(movie) {
     actionsEl.replaceChildren();
-    if (movie.imdb) {
-        const link = document.createElement("a");
-        link.className = "imdb-btn";
-        link.href = `https://www.imdb.com/title/${movie.imdb}/`;
-        link.target = "_blank";
-        link.rel = "noopener";
-        link.textContent = "View on IMDb";
-        actionsEl.append(link);
+    const imdb = imdbUrl(movie);
+    if (imdb) {
+        actionsEl.append(externalLink(imdb, "View on IMDb", "imdb-btn"));
+        actionsEl.append(externalLink(trailerUrl(movie), "Trailer", "ghost-btn"));
     }
+    if (movie.title) {
+        actionsEl.append(externalLink(watchUrl(movie), "Where to watch", "ghost-btn"));
+    }
+    if (!imdb) return;
     const copyBtn = document.createElement("button");
     copyBtn.type = "button";
     copyBtn.className = "ghost-btn";
     copyBtn.textContent = "Copy";
     copyBtn.addEventListener("click", () => copyPick(movie, copyBtn));
-    const seenBtn = document.createElement("button");
-    seenBtn.type = "button";
-    seenBtn.className = "ghost-btn";
-    seenBtn.textContent = seen.has(keyOf(movie)) ? "Undo seen" : "Seen it";
-    seenBtn.addEventListener("click", () => toggleSeen(movie));
-    actionsEl.append(copyBtn, seenBtn);
+    actionsEl.append(copyBtn);
 }
 
 function show(movie, nextMode, announce) {
@@ -378,24 +371,6 @@ document.getElementById("yearFilter").addEventListener("change", (event) => {
     refreshAfterFilter();
 });
 
-hideSeenInput.addEventListener("change", (event) => {
-    filters.hideSeen = event.target.checked;
-    try {
-        localStorage.setItem(HIDE_KEY, filters.hideSeen ? "1" : "0");
-    } catch {
-        /* ignore */
-    }
-    refreshAfterFilter();
-});
-
-forgetSeenBtn.addEventListener("click", () => {
-    seen = new Set();
-    writeList(SEEN_KEY, []);
-    updateSeenHint();
-    refreshAfterFilter();
-    if (current) renderActions(current);
-});
-
 clearFiltersBtn.addEventListener("click", clearFilters);
 spinBtn.addEventListener("click", spin);
 tonightBtn.addEventListener("click", showDaily);
@@ -427,13 +402,6 @@ async function loadMovies() {
 }
 
 async function init() {
-    try {
-        filters.hideSeen = localStorage.getItem(HIDE_KEY) === "1";
-    } catch {
-        filters.hideSeen = false;
-    }
-    hideSeenInput.checked = filters.hideSeen;
-    updateSeenHint();
     renderHistory();
     movies = await loadMovies();
     loaded = true;
