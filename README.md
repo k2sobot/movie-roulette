@@ -10,7 +10,8 @@ Live: https://k2sobot.github.io/movie-roulette/
 - Filters for type, category, year, and wildcard picks
 - Keeps tonight's pick stable until you spin
 - Remembers recent spins in this browser
-- Links out to IMDb, a YouTube trailer, and the US service that has the title
+- Filters include This year
+- Links out to IMDb, a YouTube trailer, the US service that has the title, and rent options on Google, Prime Video, and Apple TV
 
 ## Run it locally
 

@@ -274,18 +274,24 @@ h1 {
 
 .watch {
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0.4rem;
+    flex-direction: column;
+    gap: 0.55rem;
     margin: 0 0 0.9rem;
 }
 
+.watch-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem;
+}
+
 .watch-label {
-    width: 100%;
     font-size: 0.72rem;
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #a0a0a0;
+    margin-right: 0.15rem;
 }
 
 .watch a {

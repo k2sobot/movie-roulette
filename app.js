@@ -1,5 +1,5 @@
 const OMDB_API_KEY = "8accb253";
-const DATA_VERSION = "20261008c";
+const DATA_VERSION = "20261008d";
 const HISTORY_KEY = "roulette-history";
 
 const LABELS = {
@@ -77,8 +77,9 @@ function pool() {
         if (filters.type !== "all" && movie.type !== filters.type) return false;
         if (filters.category !== "all" && movie.category !== filters.category) return false;
         if (filters.wildcard && !movie.wildcard) return false;
+        if (filters.year === "this" && movie.year !== new Date().getFullYear()) return false;
         if (filters.year === "pre2000" && movie.year >= 2000) return false;
-        if (filters.year && filters.year !== "pre2000" && movie.year < Number(filters.year)) return false;
+        if (filters.year && filters.year !== "pre2000" && filters.year !== "this" && movie.year < Number(filters.year)) return false;
         return true;
     });
 }
@@ -238,26 +239,44 @@ function externalLink(href, label, className) {
     return link;
 }
 
-function renderWatch(movie) {
-    watchEl.replaceChildren();
-    const offers = watchOffers(movie);
-    if (!offers.length) {
-        watchEl.hidden = true;
-        return;
-    }
-    watchEl.hidden = false;
+function rentOffers(movie) {
+    const query = encodeURIComponent([movie.title, movie.year].filter(Boolean).join(" "));
+    return [
+        { name: "Google", url: `https://tv.google.com/search?q=${query}&hl=en` },
+        { name: "Prime Video", url: `https://www.amazon.com/s?k=${query}&i=instant-video` },
+        { name: "Apple TV", url: `https://tv.apple.com/us/search?term=${query}` }
+    ];
+}
+
+function watchRow(labelText, offers) {
+    const row = document.createElement("div");
+    row.className = "watch-row";
     const label = document.createElement("span");
     label.className = "watch-label";
-    label.textContent = "Watch now";
-    watchEl.append(label);
+    label.textContent = labelText;
+    row.append(label);
     offers.forEach((offer) => {
         const link = document.createElement("a");
         link.href = offer.url;
         link.target = "_blank";
         link.rel = "noopener";
         link.textContent = WATCH_LABELS[offer.name] || offer.name;
-        watchEl.append(link);
+        row.append(link);
     });
+    return row;
+}
+
+function renderWatch(movie) {
+    watchEl.replaceChildren();
+    const offers = watchOffers(movie);
+    const rents = rentOffers(movie);
+    if (!offers.length && !rents.length) {
+        watchEl.hidden = true;
+        return;
+    }
+    watchEl.hidden = false;
+    if (offers.length) watchEl.append(watchRow("Watch now", offers));
+    if (rents.length) watchEl.append(watchRow("Rent", rents));
 }
 
 function renderActions(movie) {
