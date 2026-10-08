@@ -33,7 +33,7 @@
       "type": "movie",
       "category": "action",
       "description": "John Wick fights for survival.",
-      "imdb": "tt6148156",
+      "imdb": "tt6146586",
       "wildcard": false
     },
     {
@@ -195,7 +195,7 @@
       "type": "movie",
       "category": "action",
       "description": "Ethan Hunt uncovers a mole.",
-      "imdb": "tt0117066",
+      "imdb": "tt0117060",
       "wildcard": false
     },
     {
@@ -249,7 +249,7 @@
       "type": "movie",
       "category": "action",
       "description": "Ethan Hunt faces his most dangerous mission.",
-      "imdb": "tt9603228",
+      "imdb": "tt9603212",
       "wildcard": false
     },
     {
@@ -438,7 +438,7 @@
       "type": "movie",
       "category": "action",
       "description": "Deadpool forms a team.",
-      "imdb": "tt4465564",
+      "imdb": "tt5463162",
       "wildcard": false
     },
     {
@@ -447,7 +447,7 @@
       "type": "movie",
       "category": "action",
       "description": "Deadpool teams with Wolverine.",
-      "imdb": "tt2631180",
+      "imdb": "tt6263850",
       "wildcard": false
     },
     {
@@ -483,7 +483,7 @@
       "type": "movie",
       "category": "action",
       "description": "The Bride faces Bill.",
-      "imdb": "tt0378197",
+      "imdb": "tt0378194",
       "wildcard": false
     },
     {
@@ -546,7 +546,7 @@
       "type": "movie",
       "category": "action",
       "description": "A mercenary rescues a kidnap victim.",
-      "imdb": "tt8155288",
+      "imdb": "tt8936646",
       "wildcard": false
     },
     {
@@ -582,7 +582,7 @@
       "type": "movie",
       "category": "action",
       "description": "McCall seeks revenge.",
-      "imdb": "tt3766126",
+      "imdb": "tt3766354",
       "wildcard": false
     },
     {
@@ -591,7 +591,7 @@
       "type": "movie",
       "category": "action",
       "description": "McCall protects a town.",
-      "imdb": "tt11360226",
+      "imdb": "tt17024450",
       "wildcard": false
     },
     {
@@ -636,7 +636,7 @@
       "type": "movie",
       "category": "action",
       "description": "The conclusion.",
-      "imdb": "tt4849382",
+      "imdb": "tt4849438",
       "wildcard": false
     },
     {
@@ -645,7 +645,7 @@
       "type": "movie",
       "category": "action",
       "description": "Journalists cover a US civil war.",
-      "imdb": "tt23971364",
+      "imdb": "tt17279496",
       "wildcard": false
     },
     {
@@ -654,7 +654,7 @@
       "type": "movie",
       "category": "action",
       "description": "A veteran fights corruption.",
-      "imdb": "tt13964764",
+      "imdb": "tt11301886",
       "wildcard": false
     },
     {
@@ -663,7 +663,7 @@
       "type": "movie",
       "category": "action",
       "description": "A man fights corruption.",
-      "imdb": "tt11811488",
+      "imdb": "tt9214772",
       "wildcard": false
     },
     {
@@ -699,7 +699,7 @@
       "type": "movie",
       "category": "action",
       "description": "Dom faces Dante.",
-      "imdb": "tt5433030",
+      "imdb": "tt5433140",
       "wildcard": false
     },
     {
@@ -762,7 +762,7 @@
       "type": "movie",
       "category": "action",
       "description": "Soldiers rescue a paratrooper.",
-      "imdb": "tt0120659",
+      "imdb": "tt0120815",
       "wildcard": false
     },
     {
@@ -780,7 +780,7 @@
       "type": "movie",
       "category": "action",
       "description": "Chris Kyle's story.",
-      "imdb": "tt2178470",
+      "imdb": "tt2179136",
       "wildcard": false
     },
     {
@@ -789,7 +789,7 @@
       "type": "movie",
       "category": "action",
       "description": "Immortal mercenaries.",
-      "imdb": "tt7545524",
+      "imdb": "tt7556122",
       "wildcard": false
     },
     {
@@ -807,7 +807,7 @@
       "type": "movie",
       "category": "action",
       "description": "An agent hunts art thieves.",
-      "imdb": "tt7995924",
+      "imdb": "tt7991608",
       "wildcard": false
     },
     {
@@ -843,7 +843,7 @@
       "type": "movie",
       "category": "action",
       "description": "An assassin accidentally blinds a singer.",
-      "imdb": "tt16405700",
+      "imdb": "tt0097202",
       "wildcard": true
     },
     {
@@ -852,7 +852,7 @@
       "type": "movie",
       "category": "action",
       "description": "Students fight to the death.",
-      "imdb": "tt0226989",
+      "imdb": "tt0266308",
       "wildcard": true
     },
     {
@@ -870,7 +870,7 @@
       "type": "movie",
       "category": "action",
       "description": "A triad enforcer protects a girl.",
-      "imdb": "tt6197074",
+      "imdb": "tt6116856",
       "wildcard": true
     },
     {
@@ -888,7 +888,7 @@
       "type": "movie",
       "category": "action",
       "description": "Coast guard battles pirates.",
-      "imdb": "tt0086574",
+      "imdb": "tt0085127",
       "wildcard": false
     },
     {
@@ -897,7 +897,7 @@
       "type": "movie",
       "category": "action",
       "description": "Two policewomen investigate.",
-      "imdb": "tt0090320",
+      "imdb": "tt0093229",
       "wildcard": true
     },
     {
@@ -906,7 +906,7 @@
       "type": "movie",
       "category": "action",
       "description": "Food truck owners help a detective.",
-      "imdb": "tt0087189",
+      "imdb": "tt0087578",
       "wildcard": true
     },
     {
@@ -915,7 +915,7 @@
       "type": "movie",
       "category": "action",
       "description": "A bodyguard seeks vengeance.",
-      "imdb": "tt0324101",
+      "imdb": "tt0328107",
       "wildcard": false
     },
     {
@@ -942,7 +942,7 @@
       "type": "movie",
       "category": "action",
       "description": "The president's plane is hijacked.",
-      "imdb": "tt0118595",
+      "imdb": "tt0118571",
       "wildcard": false
     },
     {
@@ -987,7 +987,7 @@
       "type": "movie",
       "category": "action",
       "description": "New generation of storm chasers.",
-      "imdb": "tt12584990",
+      "imdb": "tt12584954",
       "wildcard": false
     },
     {
@@ -1032,7 +1032,7 @@
       "type": "movie",
       "category": "action",
       "description": "A massive earthquake hits California.",
-      "imdb": "tt2574698",
+      "imdb": "tt2126355",
       "wildcard": false
     },
     {
@@ -1041,7 +1041,7 @@
       "type": "movie",
       "category": "action",
       "description": "A man saves his family from a tower.",
-      "imdb": "tt5108870",
+      "imdb": "tt5758778",
       "wildcard": false
     },
     {
@@ -1077,7 +1077,7 @@
       "type": "movie",
       "category": "action",
       "description": "The Trojan War.",
-      "imdb": "tt0372452",
+      "imdb": "tt0332452",
       "wildcard": false
     },
     {
@@ -1095,7 +1095,7 @@
       "type": "movie",
       "category": "action",
       "description": "Greek forces face Persians.",
-      "imdb": "tt1253107",
+      "imdb": "tt1253863",
       "wildcard": false
     },
     {
@@ -1328,8 +1328,8 @@
       "year": 2010,
       "type": "movie",
       "category": "thriller",
-      "description": "An agent hunts his fianc\u00e9e's killer.",
-      "imdb": "tt1588142",
+      "description": "An agent hunts his fiancée's killer.",
+      "imdb": "tt1588170",
       "wildcard": false
     },
     {
@@ -1338,7 +1338,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A former detective hunts a killer.",
-      "imdb": "tt1190537",
+      "imdb": "tt1190539",
       "wildcard": false
     },
     {
@@ -1374,7 +1374,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A punk band witnesses a murder.",
-      "imdb": "tt4062520",
+      "imdb": "tt4062536",
       "wildcard": false
     },
     {
@@ -1392,7 +1392,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A man attends a dinner party.",
-      "imdb": "tt2400443",
+      "imdb": "tt2400463",
       "wildcard": false
     },
     {
@@ -1410,7 +1410,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A black man visits his girlfriend's parents.",
-      "imdb": "tt5024348",
+      "imdb": "tt5052448",
       "wildcard": false
     },
     {
@@ -1418,7 +1418,7 @@
       "year": 2019,
       "type": "movie",
       "category": "thriller",
-      "description": "A family is attacked by doppelg\u00e4ngers.",
+      "description": "A family is attacked by doppelgängers.",
       "imdb": "tt6857112",
       "wildcard": false
     },
@@ -1437,7 +1437,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A girl discovers her mother's secrets.",
-      "imdb": "tt8053184",
+      "imdb": "tt8633478",
       "wildcard": false
     },
     {
@@ -1455,7 +1455,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A woman finds her rental occupied.",
-      "imdb": "tt11245972",
+      "imdb": "tt15791034",
       "wildcard": false
     },
     {
@@ -1491,7 +1491,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A woman investigates her friend's disappearance.",
-      "imdb": "tt7040854",
+      "imdb": "tt7040874",
       "wildcard": false
     },
     {
@@ -1509,7 +1509,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A teen searches for her mother.",
-      "imdb": "tt13214470",
+      "imdb": "tt10855768",
       "wildcard": false
     },
     {
@@ -1536,7 +1536,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A man tries to shoot his wife.",
-      "imdb": "tt0488122",
+      "imdb": "tt0488120",
       "wildcard": false
     },
     {
@@ -1563,7 +1563,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A CIA agent is accused of being a spy.",
-      "imdb": "tt0944830",
+      "imdb": "tt0944835",
       "wildcard": false
     },
     {
@@ -1608,7 +1608,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Time is currency.",
-      "imdb": "tt1637208",
+      "imdb": "tt1637688",
       "wildcard": false
     },
     {
@@ -1635,7 +1635,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A man relives his death.",
-      "imdb": "tt1462770",
+      "imdb": "tt7638348",
       "wildcard": true
     },
     {
@@ -1644,7 +1644,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Soldiers face ghosts.",
-      "imdb": "tt2106361",
+      "imdb": "tt2106651",
       "wildcard": true
     },
     {
@@ -1653,7 +1653,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Prisoners in a vertical cell.",
-      "imdb": "tt10889540",
+      "imdb": "tt8228288",
       "wildcard": true
     },
     {
@@ -1716,7 +1716,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "People trapped in an elevator.",
-      "imdb": "tt1312218",
+      "imdb": "tt1314655",
       "wildcard": true
     },
     {
@@ -1725,7 +1725,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A man completes tasks for money.",
-      "imdb": "tt2059174",
+      "imdb": "tt2059171",
       "wildcard": true
     },
     {
@@ -1734,7 +1734,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Friends do dares for cash.",
-      "imdb": "tt2391060",
+      "imdb": "tt2389182",
       "wildcard": true
     },
     {
@@ -1743,7 +1743,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Players face choices.",
-      "imdb": "tt1999326",
+      "imdb": "tt1999995",
       "wildcard": true
     },
     {
@@ -1752,7 +1752,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A game turns deadly.",
-      "imdb": "tt6774192",
+      "imdb": "tt6772950",
       "wildcard": true
     },
     {
@@ -1761,7 +1761,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Teens play a dare game.",
-      "imdb": "tt3501824",
+      "imdb": "tt3531824",
       "wildcard": false
     },
     {
@@ -1779,7 +1779,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Strangers at a hotel.",
-      "imdb": "tt4624424",
+      "imdb": "tt6628394",
       "wildcard": true
     },
     {
@@ -1788,7 +1788,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A deal goes wrong.",
-      "imdb": "tt3277730",
+      "imdb": "tt4158096",
       "wildcard": true
     },
     {
@@ -1797,7 +1797,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A man joins a gang in prison.",
-      "imdb": "tt4624424",
+      "imdb": "tt4633690",
       "wildcard": false
     },
     {
@@ -1806,7 +1806,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Cops face bank robbers.",
-      "imdb": "tt3212232",
+      "imdb": "tt1259528",
       "wildcard": false
     },
     {
@@ -1824,7 +1824,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Pot growers face a cartel.",
-      "imdb": "tt1613092",
+      "imdb": "tt1615065",
       "wildcard": true
     },
     {
@@ -1833,7 +1833,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A hitman investigates a heist.",
-      "imdb": "tt1764231",
+      "imdb": "tt1764234",
       "wildcard": true
     },
     {
@@ -1842,7 +1842,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A bartender gets involved.",
-      "imdb": "tt1600195",
+      "imdb": "tt1600196",
       "wildcard": true
     },
     {
@@ -1869,7 +1869,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A woman witnesses something.",
-      "imdb": "tt2402779",
+      "imdb": "tt3631112",
       "wildcard": false
     },
     {
@@ -1905,7 +1905,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Survivors in Barcelona.",
-      "imdb": "tt12262212",
+      "imdb": "tt14400246",
       "wildcard": true
     },
     {
@@ -1914,7 +1914,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A girl at a rest stop.",
-      "imdb": "tt10887452",
+      "imdb": "tt7550014",
       "wildcard": true
     },
     {
@@ -1923,7 +1923,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Women climb a tower.",
-      "imdb": "tt15353734",
+      "imdb": "tt15325794",
       "wildcard": true
     },
     {
@@ -1932,7 +1932,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A girl faces convicts.",
-      "imdb": "tt10233704",
+      "imdb": "tt10314450",
       "wildcard": true
     },
     {
@@ -1941,7 +1941,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Becky returns.",
-      "imdb": "tt22458692",
+      "imdb": "tt20916568",
       "wildcard": true
     },
     {
@@ -2040,8 +2040,8 @@
       "type": "movie",
       "category": "drama",
       "description": "Boys grow up in Rio.",
-      "imdb": "tt0317705",
-      "wildcard": false
+      "imdb": "tt0317248",
+      "wildcard": true
     },
     {
       "title": "Requiem for a Dream",
@@ -2166,7 +2166,7 @@
       "type": "movie",
       "category": "drama",
       "description": "An AIDS patient fights.",
-      "imdb": "tt1179069",
+      "imdb": "tt0790636",
       "wildcard": false
     },
     {
@@ -2220,8 +2220,8 @@
       "type": "movie",
       "category": "drama",
       "description": "A maid's life in Mexico.",
-      "imdb": "tt7153316",
-      "wildcard": false
+      "imdb": "tt6155172",
+      "wildcard": true
     },
     {
       "title": "Green Book",
@@ -2238,8 +2238,8 @@
       "type": "movie",
       "category": "drama",
       "description": "Queen Anne's rivalries.",
-      "imdb": "tt5013738",
-      "wildcard": false
+      "imdb": "tt5083738",
+      "wildcard": true
     },
     {
       "title": "A Star Is Born",
@@ -2265,7 +2265,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A couple divorces.",
-      "imdb": "tt7784604",
+      "imdb": "tt7653254",
       "wildcard": false
     },
     {
@@ -2274,7 +2274,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A hitman reflects.",
-      "imdb": "tt13020080",
+      "imdb": "tt1302006",
       "wildcard": false
     },
     {
@@ -2301,7 +2301,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A jeweler makes a bet.",
-      "imdb": "tt15757494",
+      "imdb": "tt5727208",
       "wildcard": false
     },
     {
@@ -2310,8 +2310,8 @@
       "type": "movie",
       "category": "drama",
       "description": "A family says goodbye.",
-      "imdb": "tt8643570",
-      "wildcard": false
+      "imdb": "tt8637428",
+      "wildcard": true
     },
     {
       "title": "Dolemite Is My Name",
@@ -2319,7 +2319,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A comedian makes a movie.",
-      "imdb": "tt8533318",
+      "imdb": "tt8526872",
       "wildcard": false
     },
     {
@@ -2337,7 +2337,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A boy in Northern Ireland.",
-      "imdb": "tt12742610",
+      "imdb": "tt12789558",
       "wildcard": false
     },
     {
@@ -2346,7 +2346,7 @@
       "type": "movie",
       "category": "drama",
       "description": "Venus and Serena's father.",
-      "imdb": "tt9624570",
+      "imdb": "tt9620288",
       "wildcard": false
     },
     {
@@ -2355,7 +2355,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A rancher's life.",
-      "imdb": "tt10214818",
+      "imdb": "tt10293406",
       "wildcard": false
     },
     {
@@ -2409,7 +2409,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A boy discovers film.",
-      "imdb": "tt15673402",
+      "imdb": "tt14208870",
       "wildcard": false
     },
     {
@@ -2418,7 +2418,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A conductor's downfall.",
-      "imdb": "tt14452776",
+      "imdb": "tt14444726",
       "wildcard": false
     },
     {
@@ -2427,7 +2427,7 @@
       "type": "movie",
       "category": "drama",
       "description": "Journalists expose Weinstein.",
-      "imdb": "tt17024458",
+      "imdb": "tt11198810",
       "wildcard": false
     },
     {
@@ -2473,7 +2473,7 @@
       "category": "drama",
       "description": "Childhood friends reunite.",
       "imdb": "tt13238346",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "American Fiction",
@@ -2481,7 +2481,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A writer's satire.",
-      "imdb": "tt24555480",
+      "imdb": "tt23561236",
       "wildcard": false
     },
     {
@@ -2508,7 +2508,7 @@
       "type": "movie",
       "category": "drama",
       "description": "Leonard Bernstein.",
-      "imdb": "tt12752260",
+      "imdb": "tt5535276",
       "wildcard": false
     },
     {
@@ -2517,7 +2517,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A wrestling family.",
-      "imdb": "tt11122052",
+      "imdb": "tt21064584",
       "wildcard": false
     },
     {
@@ -2526,7 +2526,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A student visits a classmate.",
-      "imdb": "tt25867128",
+      "imdb": "tt17351924",
       "wildcard": false
     },
     {
@@ -2535,7 +2535,7 @@
       "type": "movie",
       "category": "drama",
       "description": "A sex worker's romance.",
-      "imdb": "tt28713132",
+      "imdb": "tt28607951",
       "wildcard": false
     },
     {
@@ -2553,7 +2553,7 @@
       "type": "movie",
       "category": "drama",
       "description": "Cousins tour Poland.",
-      "imdb": "tt24671096",
+      "imdb": "tt21823606",
       "wildcard": false
     },
     {
@@ -2562,7 +2562,7 @@
       "type": "movie",
       "category": "drama",
       "description": "Cardinals elect a pope.",
-      "imdb": "tt12985520",
+      "imdb": "tt20215234",
       "wildcard": false
     },
     {
@@ -2571,7 +2571,7 @@
       "type": "movie",
       "category": "drama",
       "description": "Bob Dylan's early years.",
-      "imdb": "tt11563570",
+      "imdb": "tt11563598",
       "wildcard": false
     },
     {
@@ -2580,7 +2580,7 @@
       "type": "movie",
       "category": "drama",
       "description": "An architect's journey.",
-      "imdb": "tt22371138",
+      "imdb": "tt8999762",
       "wildcard": false
     },
     {
@@ -2589,7 +2589,7 @@
       "type": "movie",
       "category": "drama",
       "description": "Boys at reform school.",
-      "imdb": "tt8745240",
+      "imdb": "tt23055660",
       "wildcard": false
     },
     {
@@ -2598,8 +2598,8 @@
       "type": "movie",
       "category": "drama",
       "description": "Prisoners in theater.",
-      "imdb": "tt12257512",
-      "wildcard": false
+      "imdb": "tt28479262",
+      "wildcard": true
     },
     {
       "title": "Superbad",
@@ -2607,7 +2607,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Two seniors deal with separation.",
-      "imdb": "tt0468569",
+      "imdb": "tt0829482",
       "wildcard": false
     },
     {
@@ -2671,7 +2671,7 @@
       "category": "comedy",
       "description": "A concierge's adventures.",
       "imdb": "tt2278388",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "What We Do in the Shadows",
@@ -2680,7 +2680,7 @@
       "category": "comedy",
       "description": "Vampire roommates.",
       "imdb": "tt3416742",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Monty Python and the Holy Grail",
@@ -2689,7 +2689,7 @@
       "category": "comedy",
       "description": "King Arthur searches for the Grail.",
       "imdb": "tt0071853",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Airplane!",
@@ -2778,7 +2778,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "A Detroit cop in LA.",
-      "imdb": "tt0086965",
+      "imdb": "tt0086960",
       "wildcard": false
     },
     {
@@ -2823,7 +2823,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "A Kazakh journalist in America.",
-      "imdb": "tt0443113",
+      "imdb": "tt0443453",
       "wildcard": false
     },
     {
@@ -2832,7 +2832,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "A man's bear comes to life.",
-      "imdb": "tt1637727",
+      "imdb": "tt1637725",
       "wildcard": false
     },
     {
@@ -2850,7 +2850,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "A game night turns real.",
-      "imdb": "tt4680446",
+      "imdb": "tt2704998",
       "wildcard": false
     },
     {
@@ -2868,8 +2868,8 @@
       "type": "movie",
       "category": "comedy",
       "description": "Girls cut loose before graduation.",
-      "imdb": "tt14841946",
-      "wildcard": false
+      "imdb": "tt1489887",
+      "wildcard": true
     },
     {
       "title": "Barbie",
@@ -2877,7 +2877,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Barbie in the real world.",
-      "imdb": "tt15172698",
+      "imdb": "tt1517268",
       "wildcard": false
     },
     {
@@ -2895,7 +2895,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Friends travel to Asia.",
-      "imdb": "tt22076500",
+      "imdb": "tt15268244",
       "wildcard": false
     },
     {
@@ -2904,8 +2904,8 @@
       "type": "movie",
       "category": "comedy",
       "description": "Girls start a fight club.",
-      "imdb": "tt21705654",
-      "wildcard": false
+      "imdb": "tt17527468",
+      "wildcard": true
     },
     {
       "title": "Dumb Money",
@@ -2913,7 +2913,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "The GameStop saga.",
-      "imdb": "tt15039320",
+      "imdb": "tt13957560",
       "wildcard": false
     },
     {
@@ -2922,7 +2922,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Enemies fake a relationship.",
-      "imdb": "tt22739012",
+      "imdb": "tt26047818",
       "wildcard": false
     },
     {
@@ -2931,7 +2931,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "A girl sees imaginary friends.",
-      "imdb": "tt11811488",
+      "imdb": "tt11152168",
       "wildcard": false
     },
     {
@@ -2949,7 +2949,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Gru faces a rival.",
-      "imdb": "tt7519334",
+      "imdb": "tt7510222",
       "wildcard": false
     },
     {
@@ -2958,7 +2958,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A family is haunted after a grandmother's death.",
-      "imdb": "tt7784602",
+      "imdb": "tt7784604",
       "wildcard": false
     },
     {
@@ -2977,7 +2977,7 @@
       "category": "horror",
       "description": "A family faces witchcraft.",
       "imdb": "tt4263482",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Nope",
@@ -2985,7 +2985,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Siblings discover something in the sky.",
-      "imdb": "tt10919420",
+      "imdb": "tt10954984",
       "wildcard": false
     },
     {
@@ -3039,7 +3039,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Colonists encounter the creature.",
-      "imdb": "tt18412232",
+      "imdb": "tt18412256",
       "wildcard": false
     },
     {
@@ -3057,7 +3057,7 @@
       "type": "movie",
       "category": "horror",
       "description": "The first day.",
-      "imdb": "tt11823346",
+      "imdb": "tt13433802",
       "wildcard": false
     },
     {
@@ -3093,7 +3093,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A doll brings terror.",
-      "imdb": "tt3322904",
+      "imdb": "tt3322940",
       "wildcard": false
     },
     {
@@ -3111,7 +3111,7 @@
       "type": "movie",
       "category": "horror",
       "description": "The Warrens lock the doll.",
-      "imdb": "tt8477780",
+      "imdb": "tt8350360",
       "wildcard": false
     },
     {
@@ -3120,7 +3120,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A priest and nun investigate.",
-      "imdb": "tt5814050",
+      "imdb": "tt5814060",
       "wildcard": false
     },
     {
@@ -3129,7 +3129,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Sister Irene returns.",
-      "imdb": "tt10171856",
+      "imdb": "tt10160976",
       "wildcard": false
     },
     {
@@ -3228,7 +3228,7 @@
       "type": "movie",
       "category": "horror",
       "description": "The mob fights back.",
-      "imdb": "tt10665342",
+      "imdb": "tt10665338",
       "wildcard": false
     },
     {
@@ -3237,7 +3237,7 @@
       "type": "movie",
       "category": "horror",
       "description": "The final confrontation.",
-      "imdb": "tt10665478",
+      "imdb": "tt10665342",
       "wildcard": false
     },
     {
@@ -3246,7 +3246,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Camp counselors die.",
-      "imdb": "tt0080788",
+      "imdb": "tt0080761",
       "wildcard": false
     },
     {
@@ -3264,7 +3264,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Friends face Leatherface.",
-      "imdb": "tt0072241",
+      "imdb": "tt0072271",
       "wildcard": false
     },
     {
@@ -3300,7 +3300,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Zombies return to London.",
-      "imdb": "tt0462876",
+      "imdb": "tt0463854",
       "wildcard": false
     },
     {
@@ -3309,7 +3309,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Decades after outbreak.",
-      "imdb": "tt28519048",
+      "imdb": "tt10548174",
       "wildcard": false
     },
     {
@@ -3372,7 +3372,7 @@
       "type": "movie",
       "category": "horror",
       "description": "The family faces more.",
-      "imdb": "tt2221780",
+      "imdb": "tt2226417",
       "wildcard": false
     },
     {
@@ -3381,7 +3381,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Elise's past.",
-      "imdb": "tt5990038",
+      "imdb": "tt5726086",
       "wildcard": false
     },
     {
@@ -3390,7 +3390,7 @@
       "type": "movie",
       "category": "horror",
       "description": "The family returns.",
-      "imdb": "tt13405716",
+      "imdb": "tt13405778",
       "wildcard": false
     },
     {
@@ -3408,7 +3408,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A couple films hauntings.",
-      "imdb": "tt1179908",
+      "imdb": "tt1179904",
       "wildcard": false
     },
     {
@@ -3418,7 +3418,7 @@
       "category": "horror",
       "description": "A mother and son fear a monster.",
       "imdb": "tt2321549",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "It Follows",
@@ -3426,8 +3426,8 @@
       "type": "movie",
       "category": "horror",
       "description": "A woman is pursued.",
-      "imdb": "tt3235450",
-      "wildcard": false
+      "imdb": "tt3235888",
+      "wildcard": true
     },
     {
       "title": "Smile",
@@ -3435,7 +3435,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A curse spreads.",
-      "imdb": "tt11563970",
+      "imdb": "tt15474916",
       "wildcard": false
     },
     {
@@ -3444,7 +3444,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A pop star is cursed.",
-      "imdb": "tt25595358",
+      "imdb": "tt29268110",
       "wildcard": false
     },
     {
@@ -3453,8 +3453,8 @@
       "type": "movie",
       "category": "horror",
       "description": "Teens use a hand.",
-      "imdb": "tt11857918",
-      "wildcard": false
+      "imdb": "tt10638522",
+      "wildcard": true
     },
     {
       "title": "X",
@@ -3462,7 +3462,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Filmmakers face their hosts.",
-      "imdb": "tt13433812",
+      "imdb": "tt13560574",
       "wildcard": false
     },
     {
@@ -3471,8 +3471,8 @@
       "type": "movie",
       "category": "horror",
       "description": "A prequel to X.",
-      "imdb": "tt16218674",
-      "wildcard": false
+      "imdb": "tt18925334",
+      "wildcard": true
     },
     {
       "title": "MaXXXine",
@@ -3480,7 +3480,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Maxine pursues fame.",
-      "imdb": "tt23251922",
+      "imdb": "tt22048412",
       "wildcard": false
     },
     {
@@ -3489,7 +3489,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Art the Clown terrorizes.",
-      "imdb": "tt5562450",
+      "imdb": "tt4281724",
       "wildcard": false
     },
     {
@@ -3498,7 +3498,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Art returns.",
-      "imdb": "tt8816418",
+      "imdb": "tt10403420",
       "wildcard": false
     },
     {
@@ -3507,7 +3507,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Art at Christmas.",
-      "imdb": "tt21838748",
+      "imdb": "tt27911000",
       "wildcard": false
     },
     {
@@ -3516,8 +3516,8 @@
       "type": "movie",
       "category": "horror",
       "description": "Children find their father gone.",
-      "imdb": "tt20727618",
-      "wildcard": false
+      "imdb": "tt21307994",
+      "wildcard": true
     },
     {
       "title": "Longlegs",
@@ -3525,7 +3525,7 @@
       "type": "movie",
       "category": "horror",
       "description": "An agent hunts a killer.",
-      "imdb": "tt24670528",
+      "imdb": "tt23468450",
       "wildcard": false
     },
     {
@@ -3534,8 +3534,8 @@
       "type": "movie",
       "category": "horror",
       "description": "A woman investigates her death.",
-      "imdb": "tt27909254",
-      "wildcard": false
+      "imdb": "tt26470109",
+      "wildcard": true
     },
     {
       "title": "Late Night with the Devil",
@@ -3543,7 +3543,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A talk show goes wrong.",
-      "imdb": "tt14953024",
+      "imdb": "tt14966898",
       "wildcard": false
     },
     {
@@ -3552,7 +3552,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Spiders take over.",
-      "imdb": "tt26831790",
+      "imdb": "tt26744289",
       "wildcard": false
     },
     {
@@ -3561,7 +3561,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Sisters face a monster.",
-      "imdb": "tt6283178",
+      "imdb": "tt3427252",
       "wildcard": false
     },
     {
@@ -3570,7 +3570,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A boy hears knocks.",
-      "imdb": "tt12225168",
+      "imdb": "tt9100018",
       "wildcard": false
     },
     {
@@ -3579,7 +3579,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Father Amorth.",
-      "imdb": "tt13292120",
+      "imdb": "tt13375076",
       "wildcard": false
     },
     {
@@ -3588,7 +3588,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Dracula on a ship.",
-      "imdb": "tt11982016",
+      "imdb": "tt1001520",
       "wildcard": false
     },
     {
@@ -3597,7 +3597,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Dracula's assistant.",
-      "imdb": "tt11394170",
+      "imdb": "tt11358390",
       "wildcard": false
     },
     {
@@ -3606,7 +3606,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Kidnappers face a vampire.",
-      "imdb": "tt26810804",
+      "imdb": "tt27489557",
       "wildcard": false
     },
     {
@@ -3615,7 +3615,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A teddy bear comes to life.",
-      "imdb": "tt21806390",
+      "imdb": "tt26658104",
       "wildcard": false
     },
     {
@@ -3624,7 +3624,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A haunted pool.",
-      "imdb": "tt11230612",
+      "imdb": "tt9682428",
       "wildcard": false
     },
     {
@@ -3633,7 +3633,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A girl reanimates a corpse.",
-      "imdb": "tt13278046",
+      "imdb": "tt21188080",
       "wildcard": false
     },
     {
@@ -3642,7 +3642,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Father protects sons from monsters.",
-      "imdb": "tt12309240",
+      "imdb": "tt22939186",
       "wildcard": false
     },
     {
@@ -3651,7 +3651,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A family visits friends.",
-      "imdb": "tt28634968",
+      "imdb": "tt27534307",
       "wildcard": false
     },
     {
@@ -3660,7 +3660,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Friends face a killer in quarantine.",
-      "imdb": "tt15355974",
+      "imdb": "tt14642626",
       "wildcard": false
     },
     {
@@ -3669,7 +3669,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A fashion designer falls ill.",
-      "imdb": "tt10872662",
+      "imdb": "tt11212572",
       "wildcard": false
     },
     {
@@ -3687,7 +3687,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Friends play a game.",
-      "imdb": "tt12820022",
+      "imdb": "tt8110652",
       "wildcard": false
     },
     {
@@ -3696,7 +3696,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A woman visits cousins.",
-      "imdb": "tt1016150",
+      "imdb": "tt12873562",
       "wildcard": false
     },
     {
@@ -3705,7 +3705,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Esther's origin.",
-      "imdb": "tt11839112",
+      "imdb": "tt11851548",
       "wildcard": false
     },
     {
@@ -3714,7 +3714,7 @@
       "type": "movie",
       "category": "horror",
       "description": "John Kramer returns.",
-      "imdb": "tt8541860",
+      "imdb": "tt21807222",
       "wildcard": false
     },
     {
@@ -3723,7 +3723,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A killer on Thanksgiving.",
-      "imdb": "tt10738522",
+      "imdb": "tt1448754",
       "wildcard": false
     },
     {
@@ -3732,7 +3732,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A guard faces animatronics.",
-      "imdb": "tt27754718",
+      "imdb": "tt4589218",
       "wildcard": false
     },
     {
@@ -3741,7 +3741,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A new exorcist film.",
-      "imdb": "tt14672904",
+      "imdb": "tt12921446",
       "wildcard": false
     },
     {
@@ -3750,7 +3750,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Pooh goes evil.",
-      "imdb": "tt26652504",
+      "imdb": "tt19623240",
       "wildcard": false
     },
     {
@@ -3768,7 +3768,7 @@
       "type": "movie",
       "category": "horror",
       "description": "An AI doll.",
-      "imdb": "tt11675022",
+      "imdb": "tt8760708",
       "wildcard": false
     },
     {
@@ -3777,7 +3777,7 @@
       "type": "movie",
       "category": "horror",
       "description": "A family is held hostage.",
-      "imdb": "tt16226746",
+      "imdb": "tt8272064",
       "wildcard": false
     },
     {
@@ -3786,7 +3786,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Deadites return.",
-      "imdb": "tt13360360",
+      "imdb": "tt13345606",
       "wildcard": false
     },
     {
@@ -3868,7 +3868,7 @@
       "category": "scifi",
       "description": "Scientists explore a zone.",
       "imdb": "tt2798920",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Under the Skin",
@@ -3877,7 +3877,7 @@
       "category": "scifi",
       "description": "An alien hunts men.",
       "imdb": "tt1441395",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Coherence",
@@ -3885,8 +3885,8 @@
       "type": "movie",
       "category": "scifi",
       "description": "Friends face reality shifts.",
-      "imdb": "tt2866720",
-      "wildcard": false
+      "imdb": "tt2866360",
+      "wildcard": true
     },
     {
       "title": "Predestination",
@@ -3903,8 +3903,8 @@
       "type": "movie",
       "category": "scifi",
       "description": "An astronaut nears mission end.",
-      "imdb": "tt1182347",
-      "wildcard": false
+      "imdb": "tt1182345",
+      "wildcard": true
     },
     {
       "title": "Solaris",
@@ -3913,7 +3913,7 @@
       "category": "scifi",
       "description": "Psychologists investigate a planet.",
       "imdb": "tt0069293",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Stalker",
@@ -3922,7 +3922,7 @@
       "category": "scifi",
       "description": "A guide leads to a room.",
       "imdb": "tt0079944",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "2001: A Space Odyssey",
@@ -3976,7 +3976,7 @@
       "category": "scifi",
       "description": "Aliens live in slums.",
       "imdb": "tt1136608",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Elysium",
@@ -4038,8 +4038,8 @@
       "type": "movie",
       "category": "scifi",
       "description": "A girl mines on a moon.",
-      "imdb": "tt5984412",
-      "wildcard": false
+      "imdb": "tt7946422",
+      "wildcard": true
     },
     {
       "title": "Aniara",
@@ -4047,8 +4047,8 @@
       "type": "movie",
       "category": "scifi",
       "description": "A ship veers off course.",
-      "imdb": "tt6199310",
-      "wildcard": false
+      "imdb": "tt7589524",
+      "wildcard": true
     },
     {
       "title": "High Life",
@@ -4056,8 +4056,8 @@
       "type": "movie",
       "category": "scifi",
       "description": "Criminals in space.",
-      "imdb": "tt5104640",
-      "wildcard": false
+      "imdb": "tt4827558",
+      "wildcard": true
     },
     {
       "title": "Vivarium",
@@ -4065,8 +4065,8 @@
       "type": "movie",
       "category": "scifi",
       "description": "A couple trapped in a suburb.",
-      "imdb": "tt8198458",
-      "wildcard": false
+      "imdb": "tt8368406",
+      "wildcard": true
     },
     {
       "title": "Possessor",
@@ -4074,8 +4074,8 @@
       "type": "movie",
       "category": "scifi",
       "description": "An assassin uses bodies.",
-      "imdb": "tt5933402",
-      "wildcard": false
+      "imdb": "tt5918982",
+      "wildcard": true
     },
     {
       "title": "Archive",
@@ -4083,7 +4083,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "A scientist builds an AI.",
-      "imdb": "tt6057346",
+      "imdb": "tt6882604",
       "wildcard": false
     },
     {
@@ -4092,7 +4092,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "A drug affects time.",
-      "imdb": "tt8935150",
+      "imdb": "tt9016974",
       "wildcard": false
     },
     {
@@ -4101,7 +4101,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "A scientist contacts astronauts.",
-      "imdb": "tt2391522",
+      "imdb": "tt10539608",
       "wildcard": false
     },
     {
@@ -4110,7 +4110,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "A stowaway on a Mars mission.",
-      "imdb": "tt10396306",
+      "imdb": "tt9203694",
       "wildcard": false
     },
     {
@@ -4119,7 +4119,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "Teens on a spaceship.",
-      "imdb": "tt7214106",
+      "imdb": "tt9664108",
       "wildcard": false
     },
     {
@@ -4146,7 +4146,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "An astronaut reflects.",
-      "imdb": "tt16389854",
+      "imdb": "tt11097384",
       "wildcard": false
     },
     {
@@ -4155,7 +4155,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "AI and humanity.",
-      "imdb": "tt14858718",
+      "imdb": "tt14856980",
       "wildcard": false
     },
     {
@@ -4164,7 +4164,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "Conflict on a space station.",
-      "imdb": "tt14498316",
+      "imdb": "tt13655120",
       "wildcard": false
     },
     {
@@ -4173,7 +4173,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "Aliens rule Earth.",
-      "imdb": "tt15528974",
+      "imdb": "tt7645334",
       "wildcard": false
     },
     {
@@ -4183,7 +4183,7 @@
       "category": "scifi",
       "description": "Teens face aliens.",
       "imdb": "tt11100650",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "If You Were the Last",
@@ -4191,7 +4191,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "Stranded astronauts.",
-      "imdb": "tt27126266",
+      "imdb": "tt13650540",
       "wildcard": false
     },
     {
@@ -4218,7 +4218,7 @@
       "type": "series",
       "category": "action",
       "description": "Gangsters in Birmingham.",
-      "imdb": "tt1383702",
+      "imdb": "tt2442560",
       "wildcard": false
     },
     {
@@ -4236,8 +4236,8 @@
       "type": "series",
       "category": "action",
       "description": "A slave leads a revolt.",
-      "imdb": "tt1442437",
-      "wildcard": false
+      "imdb": "tt1442449",
+      "wildcard": true
     },
     {
       "title": "The Last of Us",
@@ -4255,7 +4255,7 @@
       "category": "action",
       "description": "Sisters on opposite sides.",
       "imdb": "tt11126994",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Narcos",
@@ -4299,7 +4299,7 @@
       "type": "series",
       "category": "action",
       "description": "A CIA analyst.",
-      "imdb": "tt5097054",
+      "imdb": "tt5057054",
       "wildcard": false
     },
     {
@@ -4308,7 +4308,7 @@
       "type": "series",
       "category": "action",
       "description": "A bipolar CIA officer.",
-      "imdb": "tt1796961",
+      "imdb": "tt1796960",
       "wildcard": false
     },
     {
@@ -4354,7 +4354,7 @@
       "category": "drama",
       "description": "Baltimore's drug scene.",
       "imdb": "tt0306414",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Better Call Saul",
@@ -4398,8 +4398,8 @@
       "type": "series",
       "category": "drama",
       "description": "FBI criminal profiling.",
-      "imdb": "tt5294404",
-      "wildcard": false
+      "imdb": "tt5290382",
+      "wildcard": true
     },
     {
       "title": "The Queen's Gambit",
@@ -4416,8 +4416,8 @@
       "type": "series",
       "category": "drama",
       "description": "The nuclear disaster.",
-      "imdb": "tt7299792",
-      "wildcard": false
+      "imdb": "tt7366338",
+      "wildcard": true
     },
     {
       "title": "The Bear",
@@ -4425,7 +4425,7 @@
       "type": "series",
       "category": "drama",
       "description": "A chef runs a sandwich shop.",
-      "imdb": "tt14414122",
+      "imdb": "tt14452776",
       "wildcard": false
     },
     {
@@ -4434,7 +4434,7 @@
       "type": "series",
       "category": "drama",
       "description": "A ranching family.",
-      "imdb": "tt4236880",
+      "imdb": "tt4236770",
       "wildcard": false
     },
     {
@@ -4443,7 +4443,7 @@
       "type": "series",
       "category": "drama",
       "description": "Guests at a resort.",
-      "imdb": "tt14176828",
+      "imdb": "tt13406094",
       "wildcard": false
     },
     {
@@ -4453,7 +4453,7 @@
       "category": "drama",
       "description": "Employees' memories divided.",
       "imdb": "tt11280740",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Shogun",
@@ -4461,7 +4461,7 @@
       "type": "series",
       "category": "drama",
       "description": "An Englishman in Japan.",
-      "imdb": "tt2752223",
+      "imdb": "tt2788316",
       "wildcard": false
     },
     {
@@ -4515,8 +4515,8 @@
       "type": "series",
       "category": "thriller",
       "description": "Detectives investigate a murder.",
-      "imdb": "tt2249363",
-      "wildcard": false
+      "imdb": "tt2249364",
+      "wildcard": true
     },
     {
       "title": "The Night Of",
@@ -4524,8 +4524,8 @@
       "type": "series",
       "category": "thriller",
       "description": "A man wakes to murder.",
-      "imdb": "tt2400629",
-      "wildcard": false
+      "imdb": "tt2401256",
+      "wildcard": true
     },
     {
       "title": "Mare of Easttown",
@@ -4542,7 +4542,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A bookstore manager's obsession.",
-      "imdb": "tt7336868",
+      "imdb": "tt7335184",
       "wildcard": false
     },
     {
@@ -4560,7 +4560,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A detective hunts killers.",
-      "imdb": "tt1474680",
+      "imdb": "tt1474684",
       "wildcard": false
     },
     {
@@ -4569,7 +4569,7 @@
       "type": "series",
       "category": "thriller",
       "description": "MI5 rejects.",
-      "imdb": "tt5872572",
+      "imdb": "tt5875444",
       "wildcard": false
     },
     {
@@ -4578,7 +4578,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A hotel manager infiltrates.",
-      "imdb": "tt4635282",
+      "imdb": "tt1399664",
       "wildcard": false
     },
     {
@@ -4587,8 +4587,8 @@
       "type": "series",
       "category": "thriller",
       "description": "Anti-corruption unit.",
-      "imdb": "tt2121962",
-      "wildcard": false
+      "imdb": "tt2303687",
+      "wildcard": true
     },
     {
       "title": "Bodyguard",
@@ -4596,7 +4596,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A veteran protects.",
-      "imdb": "tt7625786",
+      "imdb": "tt7493974",
       "wildcard": false
     },
     {
@@ -4651,7 +4651,7 @@
       "category": "comedy",
       "description": "A study group.",
       "imdb": "tt1439629",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Ted Lasso",
@@ -4668,7 +4668,7 @@
       "type": "series",
       "category": "comedy",
       "description": "The afterlife.",
-      "imdb": "tt5308322",
+      "imdb": "tt4955642",
       "wildcard": false
     },
     {
@@ -4678,7 +4678,7 @@
       "category": "comedy",
       "description": "A woman navigates life.",
       "imdb": "tt5687612",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Curb Your Enthusiasm",
@@ -4713,8 +4713,8 @@
       "type": "series",
       "category": "comedy",
       "description": "A small Canadian town.",
-      "imdb": "tt5720576",
-      "wildcard": false
+      "imdb": "tt4647692",
+      "wildcard": true
     },
     {
       "title": "Atlanta",
@@ -4723,7 +4723,7 @@
       "category": "comedy",
       "description": "A rapper's journey.",
       "imdb": "tt4288182",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Only Murders in the Building",
@@ -4731,7 +4731,7 @@
       "type": "series",
       "category": "comedy",
       "description": "Neighbors investigate.",
-      "imdb": "tt12871524",
+      "imdb": "tt11691774",
       "wildcard": false
     },
     {
@@ -4749,8 +4749,8 @@
       "type": "series",
       "category": "horror",
       "description": "A horror writer's characters.",
-      "imdb": "tt9058140",
-      "wildcard": false
+      "imdb": "tt10875696",
+      "wildcard": true
     },
     {
       "title": "American Horror Story",
@@ -4785,7 +4785,7 @@
       "type": "series",
       "category": "horror",
       "description": "A haunted estate.",
-      "imdb": "tt8292742",
+      "imdb": "tt10970552",
       "wildcard": false
     },
     {
@@ -4803,8 +4803,8 @@
       "type": "series",
       "category": "horror",
       "description": "Archived cult tapes.",
-      "imdb": "tt11402500",
-      "wildcard": false
+      "imdb": "tt13365348",
+      "wildcard": true
     },
     {
       "title": "Midnight Mass",
@@ -4812,8 +4812,8 @@
       "type": "series",
       "category": "horror",
       "description": "A priest brings miracles.",
-      "imdb": "tt7620976",
-      "wildcard": false
+      "imdb": "tt10574558",
+      "wildcard": true
     },
     {
       "title": "Kingdom",
@@ -4821,8 +4821,8 @@
       "type": "series",
       "category": "horror",
       "description": "Zombies in Korea.",
-      "imdb": "tt8023808",
-      "wildcard": false
+      "imdb": "tt6611916",
+      "wildcard": true
     },
     {
       "title": "All of Us Are Dead",
@@ -4830,7 +4830,7 @@
       "type": "series",
       "category": "horror",
       "description": "Students face zombies.",
-      "imdb": "tt13433412",
+      "imdb": "tt14169960",
       "wildcard": false
     },
     {
@@ -4848,8 +4848,8 @@
       "type": "series",
       "category": "horror",
       "description": "Arctic expedition.",
-      "imdb": "tt6376856",
-      "wildcard": false
+      "imdb": "tt2708480",
+      "wildcard": true
     },
     {
       "title": "Channel Zero",
@@ -4857,8 +4857,8 @@
       "type": "series",
       "category": "horror",
       "description": "Creepypasta anthology.",
-      "imdb": "tt5559538",
-      "wildcard": false
+      "imdb": "tt4820370",
+      "wildcard": true
     },
     {
       "title": "Black Mirror",
@@ -4876,7 +4876,7 @@
       "category": "scifi",
       "description": "Time travel mystery.",
       "imdb": "tt5753856",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "The Expanse",
@@ -4903,7 +4903,7 @@
       "category": "scifi",
       "description": "A woman finds clones.",
       "imdb": "tt2234222",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Altered Carbon",
@@ -4911,7 +4911,7 @@
       "type": "series",
       "category": "scifi",
       "description": "Interchangeable bodies.",
-      "imdb": "tt2243872",
+      "imdb": "tt2261227",
       "wildcard": false
     },
     {
@@ -4938,7 +4938,7 @@
       "type": "series",
       "category": "scifi",
       "description": "Empire's fall.",
-      "imdb": "tt8413860",
+      "imdb": "tt0804484",
       "wildcard": false
     },
     {
@@ -4965,7 +4965,7 @@
       "type": "series",
       "category": "scifi",
       "description": "Animated anthology.",
-      "imdb": "tt9561860",
+      "imdb": "tt9561862",
       "wildcard": false
     },
     {
@@ -4975,7 +4975,7 @@
       "category": "scifi",
       "description": "A programmer investigates.",
       "imdb": "tt8134186",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "The Peripheral",
@@ -4983,8 +4983,8 @@
       "type": "series",
       "category": "scifi",
       "description": "Connection to the future.",
-      "imdb": "tt8291384",
-      "wildcard": false
+      "imdb": "tt8291284",
+      "wildcard": true
     },
     {
       "title": "The Killer",
@@ -4992,7 +4992,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "An assassin faces consequences.",
-      "imdb": "tt16405700",
+      "imdb": "tt1136617",
       "wildcard": false
     },
     {
@@ -5001,7 +5001,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Families face a crisis.",
-      "imdb": "tt12731214",
+      "imdb": "tt12747748",
       "wildcard": false
     },
     {
@@ -5010,7 +5010,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A couple at a hedge fund.",
-      "imdb": "tt16227090",
+      "imdb": "tt16304446",
       "wildcard": true
     },
     {
@@ -5019,7 +5019,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "A detective investigates murder.",
-      "imdb": "tt10738522",
+      "imdb": "tt13274016",
       "wildcard": false
     },
     {
@@ -5028,7 +5028,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A man accidentally kills a serial killer.",
-      "imdb": "tt27132738",
+      "imdb": "tt28642796",
       "wildcard": true
     },
     {
@@ -5037,7 +5037,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A drug lord's rise.",
-      "imdb": "tt14371540",
+      "imdb": "tt15837600",
       "wildcard": false
     },
     {
@@ -5046,7 +5046,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A comedian is stalked.",
-      "imdb": "tt21828768",
+      "imdb": "tt13649112",
       "wildcard": false
     },
     {
@@ -5055,7 +5055,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A grifter's dark journey.",
-      "imdb": "tt27503708",
+      "imdb": "tt11016042",
       "wildcard": false
     },
     {
@@ -5064,7 +5064,7 @@
       "type": "series",
       "category": "thriller",
       "description": "Hunt for Lincoln's killer.",
-      "imdb": "tt19877204",
+      "imdb": "tt16912512",
       "wildcard": false
     },
     {
@@ -5073,7 +5073,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A prosecutor is accused.",
-      "imdb": "tt21774516",
+      "imdb": "tt17677860",
       "wildcard": false
     },
     {
@@ -5082,7 +5082,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A duke faces criminals.",
-      "imdb": "tt27503708",
+      "imdb": "tt13210838",
       "wildcard": false
     },
     {
@@ -5100,7 +5100,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A detective in Florida.",
-      "imdb": "tt1875564",
+      "imdb": "tt15203646",
       "wildcard": true
     },
     {
@@ -5109,7 +5109,7 @@
       "type": "series",
       "category": "thriller",
       "description": "A wedding turns deadly.",
-      "imdb": "tt23575416",
+      "imdb": "tt11514868",
       "wildcard": false
     },
     {
@@ -5136,7 +5136,7 @@
       "type": "movie",
       "category": "action",
       "description": "Family in Quantum Realm.",
-      "imdb": "tt12004736",
+      "imdb": "tt10954600",
       "wildcard": false
     },
     {
@@ -5163,7 +5163,7 @@
       "type": "movie",
       "category": "action",
       "description": "A teen gains a suit.",
-      "imdb": "tt11985536",
+      "imdb": "tt9362930",
       "wildcard": false
     },
     {
@@ -5190,7 +5190,7 @@
       "type": "movie",
       "category": "action",
       "description": "A colony fights.",
-      "imdb": "tt11196586",
+      "imdb": "tt14998742",
       "wildcard": false
     },
     {
@@ -5199,7 +5199,7 @@
       "type": "movie",
       "category": "action",
       "description": "Arthur faces Black Manta.",
-      "imdb": "tt9663744",
+      "imdb": "tt9663764",
       "wildcard": false
     },
     {
@@ -5208,7 +5208,7 @@
       "type": "movie",
       "category": "action",
       "description": "Ducks migrate.",
-      "imdb": "tt5968306",
+      "imdb": "tt6495056",
       "wildcard": false
     },
     {
@@ -5226,7 +5226,7 @@
       "type": "movie",
       "category": "action",
       "description": "Apes rule.",
-      "imdb": "tt11337956",
+      "imdb": "tt11389872",
       "wildcard": false
     },
     {
@@ -5244,7 +5244,7 @@
       "type": "movie",
       "category": "action",
       "description": "Mike and Marcus return.",
-      "imdb": "tt27995578",
+      "imdb": "tt4919268",
       "wildcard": false
     },
     {
@@ -5253,7 +5253,7 @@
       "type": "movie",
       "category": "action",
       "description": "Kraven's origin.",
-      "imdb": "tt15789038",
+      "imdb": "tt8790086",
       "wildcard": false
     },
     {
@@ -5262,7 +5262,7 @@
       "type": "movie",
       "category": "action",
       "description": "Heist in zombie Vegas.",
-      "imdb": "tt0993864",
+      "imdb": "tt0993840",
       "wildcard": false
     },
     {
@@ -5271,7 +5271,7 @@
       "type": "movie",
       "category": "action",
       "description": "Prequel heist.",
-      "imdb": "tt7544158",
+      "imdb": "tt13024674",
       "wildcard": false
     },
     {
@@ -5289,7 +5289,7 @@
       "type": "movie",
       "category": "action",
       "description": "Assassins protect girl.",
-      "imdb": "tt8110232",
+      "imdb": "tt8368408",
       "wildcard": false
     },
     {
@@ -5298,7 +5298,7 @@
       "type": "movie",
       "category": "action",
       "description": "Woman fights rage.",
-      "imdb": "tt11250756",
+      "imdb": "tt10228134",
       "wildcard": false
     },
     {
@@ -5307,7 +5307,7 @@
       "type": "movie",
       "category": "action",
       "description": "Female warriors.",
-      "imdb": "tt11057474",
+      "imdb": "tt8093700",
       "wildcard": false
     },
     {
@@ -5316,7 +5316,7 @@
       "type": "movie",
       "category": "action",
       "description": "Santa fights thieves.",
-      "imdb": "tt12003944",
+      "imdb": "tt12003946",
       "wildcard": false
     },
     {
@@ -5325,7 +5325,7 @@
       "type": "movie",
       "category": "action",
       "description": "Pilot saves passengers.",
-      "imdb": "tt7375488",
+      "imdb": "tt5884796",
       "wildcard": false
     },
     {
@@ -5370,7 +5370,7 @@
       "type": "movie",
       "category": "action",
       "description": "Detective faces conspiracy.",
-      "imdb": "tt11817956",
+      "imdb": "tt8080204",
       "wildcard": false
     },
     {
@@ -5379,7 +5379,7 @@
       "type": "movie",
       "category": "action",
       "description": "Father in car bomb.",
-      "imdb": "tt11971616",
+      "imdb": "tt6906292",
       "wildcard": false
     },
     {
@@ -5388,7 +5388,7 @@
       "type": "movie",
       "category": "action",
       "description": "Colony fights empire.",
-      "imdb": "tt11196586",
+      "imdb": "tt14998742",
       "wildcard": false
     },
     {
@@ -5397,7 +5397,7 @@
       "type": "movie",
       "category": "action",
       "description": "War continues.",
-      "imdb": "tt23223412",
+      "imdb": "tt23137904",
       "wildcard": false
     },
     {
@@ -5406,7 +5406,7 @@
       "type": "movie",
       "category": "action",
       "description": "Stuntman solves mystery.",
-      "imdb": "tt1673200",
+      "imdb": "tt1684562",
       "wildcard": false
     },
     {
@@ -5415,7 +5415,7 @@
       "type": "movie",
       "category": "action",
       "description": "Officer returns home.",
-      "imdb": "tt18260404",
+      "imdb": "tt5834874",
       "wildcard": false
     },
     {
@@ -5424,7 +5424,7 @@
       "type": "movie",
       "category": "action",
       "description": "Detective rescues son.",
-      "imdb": "tt11703710",
+      "imdb": "tt14123284",
       "wildcard": false
     },
     {
@@ -5433,7 +5433,7 @@
       "type": "movie",
       "category": "action",
       "description": "Woman rescues girl.",
-      "imdb": "tt15671212",
+      "imdb": "tt5315210",
       "wildcard": false
     },
     {
@@ -5442,7 +5442,7 @@
       "type": "movie",
       "category": "action",
       "description": "Teens seek revenge.",
-      "imdb": "tt10872244",
+      "imdb": "tt13327038",
       "wildcard": false
     },
     {
@@ -5460,7 +5460,7 @@
       "type": "movie",
       "category": "action",
       "description": "Pilot fights gremlin.",
-      "imdb": "tt3302524",
+      "imdb": "tt9691136",
       "wildcard": false
     },
     {
@@ -5469,7 +5469,7 @@
       "type": "movie",
       "category": "action",
       "description": "Man discovers past lives.",
-      "imdb": "tt1263274",
+      "imdb": "tt6654210",
       "wildcard": false
     },
     {
@@ -5478,7 +5478,7 @@
       "type": "movie",
       "category": "action",
       "description": "Man seeks justice.",
-      "imdb": "tt11016152",
+      "imdb": "tt10731768",
       "wildcard": false
     },
     {
@@ -5487,7 +5487,7 @@
       "type": "movie",
       "category": "action",
       "description": "Tourist on the run.",
-      "imdb": "tt9731520",
+      "imdb": "tt10230994",
       "wildcard": false
     },
     {
@@ -5496,7 +5496,7 @@
       "type": "movie",
       "category": "action",
       "description": "Agent clears name.",
-      "imdb": "tt8960254",
+      "imdb": "tt12808182",
       "wildcard": false
     },
     {
@@ -5505,7 +5505,7 @@
       "type": "movie",
       "category": "action",
       "description": "Villains on mission.",
-      "imdb": "tt6333600",
+      "imdb": "tt6334354",
       "wildcard": false
     },
     {
@@ -5568,7 +5568,7 @@
       "type": "movie",
       "category": "action",
       "description": "Antihero rises.",
-      "imdb": "tt10055090",
+      "imdb": "tt6443346",
       "wildcard": false
     },
     {
@@ -5586,7 +5586,7 @@
       "type": "movie",
       "category": "action",
       "description": "Paramedic gains powers.",
-      "imdb": "tt11074066",
+      "imdb": "tt11057302",
       "wildcard": false
     },
     {
@@ -5595,7 +5595,7 @@
       "type": "movie",
       "category": "action",
       "description": "Spy thriller.",
-      "imdb": "tt18010728",
+      "imdb": "tt15009428",
       "wildcard": false
     },
     {
@@ -5604,7 +5604,7 @@
       "type": "movie",
       "category": "action",
       "description": "WWII spies.",
-      "imdb": "tt12758060",
+      "imdb": "tt5177120",
       "wildcard": false
     },
     {
@@ -5622,7 +5622,7 @@
       "type": "movie",
       "category": "action",
       "description": "Villain origin.",
-      "imdb": "tt15789038",
+      "imdb": "tt8790086",
       "wildcard": false
     },
     {
@@ -5649,7 +5649,7 @@
       "type": "movie",
       "category": "action",
       "description": "Robots return.",
-      "imdb": "tt9197024",
+      "imdb": "tt5090568",
       "wildcard": false
     },
     {
@@ -5676,7 +5676,7 @@
       "type": "movie",
       "category": "action",
       "description": "Assassins on train.",
-      "imdb": "tt12590506",
+      "imdb": "tt12593682",
       "wildcard": false
     },
     {
@@ -5694,7 +5694,7 @@
       "type": "movie",
       "category": "action",
       "description": "River adventure.",
-      "imdb": "tt0870155",
+      "imdb": "tt0870154",
       "wildcard": false
     },
     {
@@ -5703,7 +5703,7 @@
       "type": "movie",
       "category": "action",
       "description": "NPC becomes hero.",
-      "imdb": "tt8365908",
+      "imdb": "tt6264654",
       "wildcard": false
     },
     {
@@ -5712,7 +5712,7 @@
       "type": "movie",
       "category": "action",
       "description": "Team returns.",
-      "imdb": "tt13017332",
+      "imdb": "tt21235248",
       "wildcard": false
     },
     {
@@ -5730,7 +5730,7 @@
       "type": "movie",
       "category": "action",
       "description": "Ethan's mission.",
-      "imdb": "tt9603228",
+      "imdb": "tt9603212",
       "wildcard": false
     },
     {
@@ -5757,7 +5757,7 @@
       "type": "movie",
       "category": "action",
       "description": "Assassin spinoff.",
-      "imdb": "tt8494256",
+      "imdb": "tt7181546",
       "wildcard": false
     },
     {
@@ -5766,7 +5766,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Woman seeks revenge.",
-      "imdb": "tt9620308",
+      "imdb": "tt9620292",
       "wildcard": false
     },
     {
@@ -5775,7 +5775,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Guardian traps seniors.",
-      "imdb": "tt9894042",
+      "imdb": "tt9893250",
       "wildcard": false
     },
     {
@@ -5784,7 +5784,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Woman witnesses crime.",
-      "imdb": "tt8978280",
+      "imdb": "tt6111574",
       "wildcard": false
     },
     {
@@ -5817,10 +5817,10 @@
     {
       "title": "Ripley",
       "year": 2024,
-      "type": "movie",
+      "type": "series",
       "category": "thriller",
       "description": "Grifter's journey.",
-      "imdb": "tt27503708",
+      "imdb": "tt11016042",
       "wildcard": false
     },
     {
@@ -5844,10 +5844,10 @@
     {
       "title": "The Gentlemen",
       "year": 2024,
-      "type": "movie",
+      "type": "series",
       "category": "thriller",
       "description": "Duke vs criminals.",
-      "imdb": "tt27503708",
+      "imdb": "tt13210838",
       "wildcard": false
     },
     {
@@ -5925,10 +5925,10 @@
     {
       "title": "Treason",
       "year": 2022,
-      "type": "movie",
+      "type": "series",
       "category": "thriller",
       "description": "MI6 drama.",
-      "imdb": "tt13709958",
+      "imdb": "tt16450274",
       "wildcard": false
     },
     {
@@ -5952,11 +5952,11 @@
     {
       "title": "1899",
       "year": 2022,
-      "type": "movie",
+      "type": "series",
       "category": "thriller",
       "description": "Mystery ship.",
-      "imdb": "tt9218128",
-      "wildcard": false
+      "imdb": "tt9319668",
+      "wildcard": true
     },
     {
       "title": "The Devil's Hour",
@@ -5970,11 +5970,11 @@
     {
       "title": "Inside Man",
       "year": 2022,
-      "type": "movie",
+      "type": "series",
       "category": "thriller",
       "description": "Hostage drama.",
-      "imdb": "tt16226746",
-      "wildcard": false
+      "imdb": "tt10948716",
+      "wildcard": true
     },
     {
       "title": "You Don't Know Me",
@@ -6024,11 +6024,11 @@
     {
       "title": "Unbelievable",
       "year": 2019,
-      "type": "movie",
+      "type": "series",
       "category": "thriller",
       "description": "Serial rapist.",
-      "imdb": "tt7909350",
-      "wildcard": false
+      "imdb": "tt7909970",
+      "wildcard": true
     },
     {
       "title": "Unorthodox",
@@ -6045,7 +6045,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Tragic loss.",
-      "imdb": "tt11193502",
+      "imdb": "tt11161474",
       "wildcard": false
     },
     {
@@ -6054,7 +6054,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Playwright's journey.",
-      "imdb": "tt9445082",
+      "imdb": "tt10642834",
       "wildcard": false
     },
     {
@@ -6063,7 +6063,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Couple fights.",
-      "imdb": "tt13844216",
+      "imdb": "tt12676326",
       "wildcard": false
     },
     {
@@ -6072,7 +6072,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Dispatcher crisis.",
-      "imdb": "tt12884458",
+      "imdb": "tt9421570",
       "wildcard": false
     },
     {
@@ -6099,7 +6099,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Baby box story.",
-      "imdb": "tt16446064",
+      "imdb": "tt13056052",
       "wildcard": false
     },
     {
@@ -6108,7 +6108,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Cop action.",
-      "imdb": "tt19641776",
+      "imdb": "tt15838850",
       "wildcard": false
     },
     {
@@ -6117,7 +6117,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "More crime.",
-      "imdb": "tt26677540",
+      "imdb": "tt21364552",
       "wildcard": false
     },
     {
@@ -6126,7 +6126,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Mother assassin.",
-      "imdb": "tt25842020",
+      "imdb": "tt16900880",
       "wildcard": false
     },
     {
@@ -6135,7 +6135,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Revenge thriller.",
-      "imdb": "tt20906668",
+      "imdb": "tt26350277",
       "wildcard": false
     },
     {
@@ -6144,7 +6144,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Husband's behavior.",
-      "imdb": "tt25720070",
+      "imdb": "tt8209702",
       "wildcard": false
     },
     {
@@ -6153,7 +6153,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Apartment survival.",
-      "imdb": "tt26786464",
+      "imdb": "tt13086266",
       "wildcard": false
     },
     {
@@ -6162,7 +6162,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Family thriller.",
-      "imdb": "tt23738924",
+      "imdb": "tt21928528",
       "wildcard": false
     },
     {
@@ -6171,7 +6171,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Serial killer.",
-      "imdb": "tt28035036",
+      "imdb": "tt22375054",
       "wildcard": false
     },
     {
@@ -6180,7 +6180,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Forest mystery.",
-      "imdb": "tt12735026",
+      "imdb": "tt26736843",
       "wildcard": false
     },
     {
@@ -6189,7 +6189,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Concert trap.",
-      "imdb": "tt25949968",
+      "imdb": "tt26753003",
       "wildcard": false
     },
     {
@@ -6198,7 +6198,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Resort horror.",
-      "imdb": "tt29639428",
+      "imdb": "tt12349832",
       "wildcard": false
     },
     {
@@ -6207,7 +6207,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Silent thriller.",
-      "imdb": "tt29355864",
+      "imdb": "tt22173666",
       "wildcard": false
     },
     {
@@ -6216,7 +6216,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "AI horror.",
-      "imdb": "tt19361898",
+      "imdb": "tt24577462",
       "wildcard": false
     },
     {
@@ -6225,7 +6225,7 @@
       "type": "movie",
       "category": "action",
       "description": "Martial arts classic.",
-      "imdb": "tt0068935",
+      "imdb": "tt0070034",
       "wildcard": false
     },
     {
@@ -6405,7 +6405,7 @@
       "type": "movie",
       "category": "action",
       "description": "Kung fu comedy.",
-      "imdb": "tt0082493",
+      "imdb": "tt0080179",
       "wildcard": false
     },
     {
@@ -6414,7 +6414,7 @@
       "type": "movie",
       "category": "action",
       "description": "Bruce Lee classic.",
-      "imdb": "tt0067822",
+      "imdb": "tt0067824",
       "wildcard": false
     },
     {
@@ -6441,7 +6441,7 @@
       "type": "movie",
       "category": "action",
       "description": "Lee's final film.",
-      "imdb": "tt0076729",
+      "imdb": "tt0077594",
       "wildcard": false
     },
     {
@@ -6468,7 +6468,7 @@
       "type": "movie",
       "category": "action",
       "description": "Soldiers reanimated.",
-      "imdb": "tt0105695",
+      "imdb": "tt0105698",
       "wildcard": false
     },
     {
@@ -6504,7 +6504,7 @@
       "type": "movie",
       "category": "action",
       "description": "Cop vs cult.",
-      "imdb": "tt0090789",
+      "imdb": "tt0090859",
       "wildcard": false
     },
     {
@@ -6567,7 +6567,7 @@
       "type": "movie",
       "category": "action",
       "description": "Soldier with tribe.",
-      "imdb": "tt0099657",
+      "imdb": "tt0099348",
       "wildcard": false
     },
     {
@@ -6603,7 +6603,7 @@
       "type": "movie",
       "category": "action",
       "description": "Flood heist.",
-      "imdb": "tt0120522",
+      "imdb": "tt0120696",
       "wildcard": false
     },
     {
@@ -6612,7 +6612,7 @@
       "type": "movie",
       "category": "action",
       "description": "Energy conspiracy.",
-      "imdb": "tt0115819",
+      "imdb": "tt0115857",
       "wildcard": false
     },
     {
@@ -6693,7 +6693,7 @@
       "type": "movie",
       "category": "action",
       "description": "Sci-fi epic.",
-      "imdb": "tt1160419",
+      "imdb": "tt0087182",
       "wildcard": false
     },
     {
@@ -6738,7 +6738,7 @@
       "type": "movie",
       "category": "action",
       "description": "Brothers fight.",
-      "imdb": "tt0106754",
+      "imdb": "tt0106761",
       "wildcard": false
     },
     {
@@ -6765,7 +6765,7 @@
       "type": "movie",
       "category": "action",
       "description": "Romantic action.",
-      "imdb": "tt0375009",
+      "imdb": "tt0385004",
       "wildcard": false
     },
     {
@@ -6774,7 +6774,7 @@
       "type": "movie",
       "category": "action",
       "description": "Palace intrigue.",
-      "imdb": "tt0475804",
+      "imdb": "tt0473444",
       "wildcard": false
     },
     {
@@ -6783,7 +6783,7 @@
       "type": "movie",
       "category": "action",
       "description": "Bourne framed.",
-      "imdb": "tt0372181",
+      "imdb": "tt0372183",
       "wildcard": false
     },
     {
@@ -6846,7 +6846,7 @@
       "type": "movie",
       "category": "action",
       "description": "Bryan framed.",
-      "imdb": "tt2925342",
+      "imdb": "tt2446042",
       "wildcard": false
     },
     {
@@ -6873,7 +6873,7 @@
       "type": "movie",
       "category": "action",
       "description": "Team returns.",
-      "imdb": "tt1648179",
+      "imdb": "tt1764651",
       "wildcard": false
     },
     {
@@ -6891,7 +6891,7 @@
       "type": "movie",
       "category": "action",
       "description": "Team's return.",
-      "imdb": "tt10665058",
+      "imdb": "tt3291150",
       "wildcard": false
     },
     {
@@ -6918,7 +6918,7 @@
       "type": "movie",
       "category": "action",
       "description": "White House attack.",
-      "imdb": "tt2334879",
+      "imdb": "tt2302755",
       "wildcard": false
     },
     {
@@ -6927,7 +6927,7 @@
       "type": "movie",
       "category": "action",
       "description": "Leaders targeted.",
-      "imdb": "tt3300540",
+      "imdb": "tt3300542",
       "wildcard": false
     },
     {
@@ -6936,7 +6936,7 @@
       "type": "movie",
       "category": "action",
       "description": "Banning framed.",
-      "imdb": "tt5164216",
+      "imdb": "tt6189022",
       "wildcard": false
     },
     {
@@ -7044,7 +7044,7 @@
       "type": "movie",
       "category": "action",
       "description": "Greek gods.",
-      "imdb": "tt0800080",
+      "imdb": "tt0800320",
       "wildcard": false
     },
     {
@@ -7053,7 +7053,7 @@
       "type": "movie",
       "category": "action",
       "description": "Perseus returns.",
-      "imdb": "tt1644191",
+      "imdb": "tt1646987",
       "wildcard": false
     },
     {
@@ -7071,7 +7071,7 @@
       "type": "movie",
       "category": "action",
       "description": "Quest continues.",
-      "imdb": "tt1854513",
+      "imdb": "tt1854564",
       "wildcard": false
     },
     {
@@ -7269,7 +7269,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Universal monster.",
-      "imdb": "tt0023155",
+      "imdb": "tt0023245",
       "wildcard": false
     },
     {
@@ -7342,7 +7342,7 @@
       "category": "horror",
       "description": "Cult mystery.",
       "imdb": "tt0070917",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "The Omen",
@@ -7369,7 +7369,7 @@
       "category": "horror",
       "description": "Ballet witches.",
       "imdb": "tt0076786",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "The Amityville Horror",
@@ -7432,7 +7432,7 @@
       "category": "horror",
       "description": "Media horror.",
       "imdb": "tt0086541",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Christine",
@@ -7512,7 +7512,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Vampire teens.",
-      "imdb": "tt0093409",
+      "imdb": "tt0093437",
       "wildcard": false
     },
     {
@@ -7540,7 +7540,7 @@
       "category": "horror",
       "description": "Alien conspiracy.",
       "imdb": "tt0096256",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Pet Sematary",
@@ -7575,7 +7575,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Urban legend.",
-      "imdb": "tt0103924",
+      "imdb": "tt0103919",
       "wildcard": false
     },
     {
@@ -7612,7 +7612,7 @@
       "category": "horror",
       "description": "Space hell.",
       "imdb": "tt0119081",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "The Devils Advocate",
@@ -7638,7 +7638,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Headless horseman.",
-      "imdb": "tt0168426",
+      "imdb": "tt0162661",
       "wildcard": false
     },
     {
@@ -7647,8 +7647,8 @@
       "type": "movie",
       "category": "horror",
       "description": "Found footage.",
-      "imdb": "tt0186894",
-      "wildcard": false
+      "imdb": "tt0185937",
+      "wildcard": true
     },
     {
       "title": "Final Destination",
@@ -7692,7 +7692,7 @@
       "type": "movie",
       "category": "horror",
       "description": "House trap.",
-      "imdb": "tt0430015",
+      "imdb": "tt0432348",
       "wildcard": false
     },
     {
@@ -7701,7 +7701,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Final test.",
-      "imdb": "tt0477480",
+      "imdb": "tt0489270",
       "wildcard": false
     },
     {
@@ -7764,8 +7764,8 @@
       "type": "movie",
       "category": "horror",
       "description": "Cave monsters.",
-      "imdb": "tt0435691",
-      "wildcard": false
+      "imdb": "tt0435625",
+      "wildcard": true
     },
     {
       "title": "Silent Hill",
@@ -7801,7 +7801,7 @@
       "category": "horror",
       "description": "Vampire love.",
       "imdb": "tt1139797",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Drag Me to Hell",
@@ -7827,7 +7827,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Prequel.",
-      "imdb": "tt1637727",
+      "imdb": "tt1536044",
       "wildcard": false
     },
     {
@@ -7845,7 +7845,7 @@
       "type": "movie",
       "category": "horror",
       "description": "New family.",
-      "imdb": "tt2109180",
+      "imdb": "tt2109184",
       "wildcard": false
     },
     {
@@ -7854,7 +7854,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Home invasion.",
-      "imdb": "tt2084992",
+      "imdb": "tt1853739",
       "wildcard": false
     },
     {
@@ -7863,7 +7863,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Annual crime.",
-      "imdb": "tt2024469",
+      "imdb": "tt2184339",
       "wildcard": false
     },
     {
@@ -7881,7 +7881,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Political purge.",
-      "imdb": "tt4022370",
+      "imdb": "tt4094724",
       "wildcard": false
     },
     {
@@ -7899,7 +7899,7 @@
       "type": "movie",
       "category": "horror",
       "description": "No rules.",
-      "imdb": "tt8778564",
+      "imdb": "tt10327252",
       "wildcard": false
     },
     {
@@ -7908,7 +7908,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Mirror horror.",
-      "imdb": "tt2392258",
+      "imdb": "tt2388715",
       "wildcard": false
     },
     {
@@ -7917,7 +7917,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Gothic romance.",
-      "imdb": "tt2554270",
+      "imdb": "tt2554274",
       "wildcard": false
     },
     {
@@ -7927,7 +7927,7 @@
       "category": "horror",
       "description": "Twin brothers.",
       "imdb": "tt3086442",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Don't Breathe",
@@ -7935,7 +7935,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Blind man.",
-      "imdb": "tt4162816",
+      "imdb": "tt4160708",
       "wildcard": false
     },
     {
@@ -7944,8 +7944,8 @@
       "type": "movie",
       "category": "horror",
       "description": "Two keepers.",
-      "imdb": "tt10200756",
-      "wildcard": false
+      "imdb": "tt7984734",
+      "wildcard": true
     },
     {
       "title": "Ready or Not",
@@ -7990,7 +7990,7 @@
       "category": "comedy",
       "description": "Nuclear satire.",
       "imdb": "tt0057012",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "The Great Escape",
@@ -8043,7 +8043,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Music mission.",
-      "imdb": "tt0080472",
+      "imdb": "tt0080455",
       "wildcard": false
     },
     {
@@ -8052,7 +8052,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Army comedy.",
-      "imdb": "tt0083113",
+      "imdb": "tt0083131",
       "wildcard": false
     },
     {
@@ -8062,7 +8062,7 @@
       "category": "comedy",
       "description": "Rock mockumentary.",
       "imdb": "tt0088258",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Back to the Future",
@@ -8088,7 +8088,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Travel nightmare.",
-      "imdb": "tt0093749",
+      "imdb": "tt0093748",
       "wildcard": false
     },
     {
@@ -8151,7 +8151,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Cartoon chaos.",
-      "imdb": "tt0110431",
+      "imdb": "tt0110475",
       "wildcard": false
     },
     {
@@ -8170,7 +8170,7 @@
       "category": "comedy",
       "description": "Convenience store.",
       "imdb": "tt0109445",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Four Weddings and a Funeral",
@@ -8205,7 +8205,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Golf comedy.",
-      "imdb": "tt0116482",
+      "imdb": "tt0116483",
       "wildcard": false
     },
     {
@@ -8214,7 +8214,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Multiple roles.",
-      "imdb": "tt0117217",
+      "imdb": "tt0117218",
       "wildcard": false
     },
     {
@@ -8242,7 +8242,7 @@
       "category": "comedy",
       "description": "The Dude.",
       "imdb": "tt0118715",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "American Pie",
@@ -8260,7 +8260,7 @@
       "category": "comedy",
       "description": "Work satire.",
       "imdb": "tt0151804",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Galaxy Quest",
@@ -8269,7 +8269,7 @@
       "category": "comedy",
       "description": "Star Trek parody.",
       "imdb": "tt0177789",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Meet the Parents",
@@ -8332,7 +8332,7 @@
       "category": "comedy",
       "description": "Quirky comedy.",
       "imdb": "tt0374900",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Wedding Crashers",
@@ -8349,7 +8349,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Adult comedy.",
-      "imdb": "tt0405196",
+      "imdb": "tt0405422",
       "wildcard": false
     },
     {
@@ -8376,7 +8376,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Teen pregnancy.",
-      "imdb": "tt0467405",
+      "imdb": "tt0467406",
       "wildcard": false
     },
     {
@@ -8385,7 +8385,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Stoner action.",
-      "imdb": "tt0918933",
+      "imdb": "tt0910936",
       "wildcard": false
     },
     {
@@ -8458,7 +8458,7 @@
       "category": "comedy",
       "description": "Time loop romance.",
       "imdb": "tt9484996",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Borat Subsequent Moviefilm",
@@ -8466,7 +8466,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Sequel.",
-      "imdb": "tt14090248",
+      "imdb": "tt13143964",
       "wildcard": false
     },
     {
@@ -8530,7 +8530,7 @@
       "category": "scifi",
       "description": "Food mystery.",
       "imdb": "tt0070723",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Westworld",
@@ -8548,7 +8548,7 @@
       "category": "scifi",
       "description": "Alien visitor.",
       "imdb": "tt0074851",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Star Wars",
@@ -8745,7 +8745,7 @@
       "type": "movie",
       "category": "scifi",
       "description": "Sequel.",
-      "imdb": "tt6350160",
+      "imdb": "tt6450804",
       "wildcard": false
     },
     {
@@ -8818,7 +8818,7 @@
       "category": "scifi",
       "description": "Infertile world.",
       "imdb": "tt0206634",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Sunshine",
@@ -8890,7 +8890,7 @@
       "category": "drama",
       "description": "Hollywood noir.",
       "imdb": "tt0043014",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "12 Angry Men",
@@ -8926,7 +8926,7 @@
       "category": "drama",
       "description": "Coming of age.",
       "imdb": "tt0061722",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "In the Heat of the Night",
@@ -8944,7 +8944,7 @@
       "category": "drama",
       "description": "Street survival.",
       "imdb": "tt0064665",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "One Flew Over the Cuckoo's Nest",
@@ -9438,7 +9438,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Widow's horror.",
-      "imdb": "tt10074196",
+      "imdb": "tt9731534",
       "wildcard": false
     },
     {
@@ -9456,7 +9456,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Tragedy aftermath.",
-      "imdb": "tt11813216",
+      "imdb": "tt14153080",
       "wildcard": false
     },
     {
@@ -9465,7 +9465,7 @@
       "type": "series",
       "category": "thriller",
       "description": "FBI agent.",
-      "imdb": "tt13110942",
+      "imdb": "tt13918776",
       "wildcard": false
     },
     {
@@ -9483,7 +9483,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Hurricane party.",
-      "imdb": "tt12820022",
+      "imdb": "tt8110652",
       "wildcard": false
     },
     {
@@ -9492,7 +9492,7 @@
       "type": "movie",
       "category": "thriller",
       "description": "Yacht satire.",
-      "imdb": "tt7325656",
+      "imdb": "tt7322224",
       "wildcard": false
     },
     {
@@ -9529,7 +9529,7 @@
       "category": "horror",
       "description": "Immigrant horror.",
       "imdb": "tt8636634",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "The Night House",
@@ -9537,7 +9537,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Widow's grief.",
-      "imdb": "tt10074196",
+      "imdb": "tt9731534",
       "wildcard": false
     },
     {
@@ -9547,7 +9547,7 @@
       "category": "horror",
       "description": "Religious horror.",
       "imdb": "tt8140150",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Alone",
@@ -9582,7 +9582,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Teen slasher.",
-      "imdb": "tt7325656",
+      "imdb": "tt6566576",
       "wildcard": false
     },
     {
@@ -9591,7 +9591,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Camp slasher.",
-      "imdb": "tt7325656",
+      "imdb": "tt9701940",
       "wildcard": false
     },
     {
@@ -9600,7 +9600,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Witch hunt.",
-      "imdb": "tt7325656",
+      "imdb": "tt9701942",
       "wildcard": false
     },
     {
@@ -9618,7 +9618,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Sequel.",
-      "imdb": "tt11834120",
+      "imdb": "tt9347730",
       "wildcard": false
     },
     {
@@ -9663,7 +9663,7 @@
       "type": "movie",
       "category": "horror",
       "description": "Prequel.",
-      "imdb": "tt11814448",
+      "imdb": "tt5672290",
       "wildcard": false
     },
     {
@@ -9682,7 +9682,7 @@
       "category": "drama",
       "description": "Korean family.",
       "imdb": "tt10633480",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Judas and the Black Messiah",
@@ -9727,15 +9727,15 @@
       "category": "drama",
       "description": "Colony women.",
       "imdb": "tt7703542",
-      "wildcard": false
+      "wildcard": true
     },
     {
-      "title": "T\u00e1r",
+      "title": "Tár",
       "year": 2022,
       "type": "movie",
       "category": "drama",
       "description": "Conducting.",
-      "imdb": "tt14452776",
+      "imdb": "tt14444726",
       "wildcard": false
     },
     {
@@ -9763,7 +9763,7 @@
       "category": "drama",
       "description": "Actress research.",
       "imdb": "tt12225252",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Priscilla",
@@ -9807,8 +9807,8 @@
       "type": "movie",
       "category": "drama",
       "description": "Childhood.",
-      "imdb": "tt21866228",
-      "wildcard": false
+      "imdb": "tt21192142",
+      "wildcard": true
     },
     {
       "title": "Emma",
@@ -9816,7 +9816,7 @@
       "type": "movie",
       "category": "comedy",
       "description": "Austen adaptation.",
-      "imdb": "tt9214772",
+      "imdb": "tt9214832",
       "wildcard": false
     },
     {
@@ -9826,7 +9826,7 @@
       "category": "comedy",
       "description": "Song contest.",
       "imdb": "tt8429580",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "The Trial of the Chicago 7",
@@ -9853,7 +9853,7 @@
       "category": "comedy",
       "description": "Desert town.",
       "imdb": "tt11291274",
-      "wildcard": false
+      "wildcard": true
     },
     {
       "title": "Chaos Walking",
